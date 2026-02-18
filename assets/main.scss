@@ -1,0 +1,64 @@
+---
+---
+
+@import "minima";
+
+/* --- Subtle, restrained typography polish --- */
+
+:root {
+  --measure: 44rem; /* line length */
+}
+
+/* Narrower, more readable column */
+.wrapper {
+  max-width: var(--measure);
+}
+
+/* Slightly calmer type */
+body {
+  font-size: 17px;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Headings: tighter and more “academic” */
+h1, h2, h3 {
+  letter-spacing: -0.01em;
+}
+
+h1 { margin-top: 0.2rem; margin-bottom: 1.0rem; }
+h2 { margin-top: 2.0rem; margin-bottom: 0.75rem; }
+h3 { margin-top: 1.5rem; margin-bottom: 0.5rem; }
+
+/* Links: understated */
+a {
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+/* Lists: a touch more breathing room */
+ul, ol { margin-top: 0.4rem; margin-bottom: 1.0rem; }
+li { margin: 0.25rem 0; }
+
+/* Horizontal rules: lighter */
+hr {
+  border: 0;
+  border-top: 1px solid #e6e6e6;
+  margin: 1.75rem 0;
+}
+
+/* Images: a little rounding looks nicer without being “designed” */
+img {
+  border-radius: 10px;
+}
+
+/* Optional: reduce header visual noise */
+.site-title {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.site-nav .page-link {
+  margin-left: 0.75rem;
+}
