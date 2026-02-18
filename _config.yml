@@ -1,6 +1,12 @@
 title: "Jim Gatheral"
+description: "Research on rough volatility, stochastic volatility, volatility surfaces, market impact, and optimal execution."
 theme: minima
 markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
 header_pages:
   - about.md
   - research.md
@@ -8,4 +14,5 @@ header_pages:
   - talks.md
   - teaching.md
   - contact.md
+
 
