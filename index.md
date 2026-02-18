@@ -1,16 +1,6 @@
 ---
 ---
 
-# Test
-
-This should be **bold**.
-
-
-layout: default
----
-
-# Jim Gatheral
-
 ![Jim Gatheral](https://mfe.baruch.cuny.edu/wp-content/uploads/2023/01/JimG2-scaled.jpg){: width="180" }
 
 **Presidential Professor**  
