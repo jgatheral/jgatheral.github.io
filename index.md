@@ -24,6 +24,3 @@ Jim Gatheral joined the [Financial Engineering MS Program](https://mfe.baruch.cu
 
   Phone: 646.312.4134  
   Email: [jim.gatheral@baruch.cuny.edu](mailto:jim.gatheral@baruch.cuny.edu)
-
-  </div>
-</div>
