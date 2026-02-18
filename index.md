@@ -1,4 +1,11 @@
 ---
+---
+
+# Test
+
+This should be **bold**.
+
+
 layout: default
 ---
 
