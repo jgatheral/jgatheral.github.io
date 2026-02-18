@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Home
+
 permalink: /
 ---
 
-# Jim Gatheral
+
 
 <img src="https://mfe.baruch.cuny.edu/wp-content/uploads/2023/01/JimG2-scaled.jpg"
      alt="Jim Gatheral"
