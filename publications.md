@@ -10,4 +10,6 @@ permalink: /publications/
 - *Pricing Under Rough Volatility*, Quantitative Finance (2016).
 - *No-Dynamic-Arbitrage and Market Impact*, Quantitative Finance (2010).
 
-A complete list is available on Google Scholar.
+A complete list is available on <a href="https://scholar.google.com/citations?user=1XwLUrcAAAAJ&hl=en&oi=ao">Google Scholar</a>.
+
+
