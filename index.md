@@ -17,9 +17,7 @@ Email: [jim.gatheral@baruch.cuny.edu](mailto:jim.gatheral@baruch.cuny.edu)
 
 ---
 
-Jim Gatheral joined the  
-[Financial Engineering MS Program](https://mfe.baruch.cuny.edu/)  
-in 2010 as a tenured full professor. Since 2013, he has been Presidential Professor at Baruch College.
+Jim Gatheral joined the [Financial Engineering MS Program](https://mfe.baruch.cuny.edu/) in 2010 as a tenured full professor. Since 2013, he has been Presidential Professor at Baruch College.
 
 **Research interests:** volatility modeling, rough volatility, market impact, and optimal execution.
 
