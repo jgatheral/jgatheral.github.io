@@ -1,34 +1,30 @@
 ---
 layout: page
-title: Home
+
 permalink: /
 ---
 
-<div class="profile-header">
 
-  <div class="profile-photo">
-    <img src="/assets/img/jim.jpg" alt="Jim Gatheral">
-  </div>
 
-  <div class="profile-text">
-    <h1>Jim Gatheral</h1>
+<img src="https://mfe.baruch.cuny.edu/wp-content/uploads/2023/01/JimG2-scaled.jpg"
+     alt="Jim Gatheral"
+     width="180"
+     style="border-radius:12px;">
 
-    Presidential Professor of Mathematics  
-    Baruch College, City University of New York (CUNY)  
+**Presidential Professor**  
+[Baruch College](https://www.baruch.cuny.edu/)  
+[City University of New York (CUNY)](https://www.cuny.edu/)
 
-    Email: jim.gatheral@baruch.cuny.edu
-  </div>
+Department of Mathematics  
+Box B6-230  
+One Bernard Baruch Way  
+New York, NY 10010, USA  
 
-</div>
+Phone: 646.312.4134  
+Email: [jim.gatheral@baruch.cuny.edu](mailto:jim.gatheral@baruch.cuny.edu)
 
 ---
 
-My research concerns stochastic volatility with an emphasis on **rough volatility** and Volterra-type models, as well as volatility surface modeling and market microstructure.
+Jim Gatheral joined the0 [Financial Engineering MS Program](https://mfe.baruch.cuny.edu/) in 2010 as a tenured full professor. Since 2013, he has been Presidential Professor at Baruch College.
 
-Further details may be found under:
-
-- [Research](/research/)
-- [Publications](/publications/)
-- [Talks](/talks/)
-- [Teaching](/teaching/)
-- [Contact](/contact/)
+**Research interests:** volatility modeling, rough volatility, market impact, and optimal execution.
