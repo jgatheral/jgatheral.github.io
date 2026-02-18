@@ -6,7 +6,7 @@ permalink: /
 
 
 
-<img src="https://mfe.baruch.cuny.edu/wp-content/uploads/2023/01/JimG2-scaled.jpg"
+<img src="JimG2-scaled.jpg"
      alt="Jim Gatheral"
      width="180"
      style="border-radius:12px;">
