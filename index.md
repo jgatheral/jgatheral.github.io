@@ -1,5 +1,7 @@
 ---
 ---
+<div class="home-header">
+
 
 ![Jim Gatheral](https://mfe.baruch.cuny.edu/wp-content/uploads/2023/01/JimG2-scaled.jpg){: width="180" }
 
@@ -24,3 +26,6 @@ Jim Gatheral joined the [Financial Engineering MS Program](https://mfe.baruch.cu
 
   Phone: 646.312.4134  
   Email: [jim.gatheral@baruch.cuny.edu](mailto:jim.gatheral@baruch.cuny.edu)
+
+  
+</div>
