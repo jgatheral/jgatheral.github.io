@@ -11,6 +11,7 @@ permalink: /talks/
 - Rough Volatility Overview (Columbia, 2018)
 
 - <a href="https://mfe.baruch.cuny.edu/wp-content/uploads/2024/04/RoughVolatilityBologna2024.pdf"><em>10 Years of rough volatility:  A current perspective</em> </a>
+
 XXV Workshop on Quantitative Finance, Bologna, (April 2024).
 
 
