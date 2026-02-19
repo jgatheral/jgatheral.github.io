@@ -18,7 +18,7 @@ permalink: /talks/
 
 ## Selected Earlier Talks
 
-- [Three models of market impact](/assets/slides/Chicago2016OptimalExecution) (Chicago (May 2016)
+- [Three models of market impact](/assets/slides/Chicago2016OptimalExecution) (Chicago, May 2016)
 
 - [A parsimonious arbitrage-free implied volatility parameterization with application to the valuation of volatility derivatives](/assets/slides/madrid2004.pdf) (Madrid, April 2004)
 
