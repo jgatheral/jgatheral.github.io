@@ -8,7 +8,7 @@ permalink: /talks/
 
 - [The SSR under Quadratic Rough Heston](/assets/slides/QRH-SSR-CBOE-2025.pdf) (Chicago, October 2025)
 
-- [Computing skew-stickiness](/assets/slides/QRH-SSR-CBOE-2025.pdf) (London, November 2024)
+- [Computing skew-stickiness](/assets/slides/SSR-Quantminds-2024.pdf) (London, November 2024)
 
 - [10 Years of Rough Volatility: A Current Perspective](/assets/slides/RoughVolatilityBologna2024.pdf) (Bologna, April 2024)
 
