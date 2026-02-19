@@ -8,10 +8,6 @@ permalink: /old-talks/
 
 A selection of earlier presentations.
 
-¢Â <a href="https://mfe.baruch.cuny.edu/wp-content/uploads/2024/04/RoughVolatilityBologna2024.pdf"><em>10 Years of rough volatility:  A current perspective</em>Â </a>
-
-XXV Workshop on Quantitative Finance, Bologna, (April 2024).
-
 
 â€¢Â <a href="https://mfe.baruch.cuny.edu/wp-content/uploads/2024/03/RoughVolatilityBaruch2024.pdf"><em>Volatility is rough</em>Â </a>
 
