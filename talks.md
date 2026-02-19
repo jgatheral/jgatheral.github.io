@@ -19,5 +19,5 @@ permalink: /talks/
 
  ## Earlier Talks
 
-[Earlier talks](/old-talks/)
+- [Earlier talks](/old-talks/)
 
