@@ -18,9 +18,7 @@ permalink: /talks/
 
 ## Selected Earlier Talks
 
-â€¢Â <a href="http://mfe.baruch.cuny.edu/wp-content/uploads/2017/05/Chicago2016OptimalExecution.pdf"><em>Three models of market impact</em></a>
-
-Market Microstructure and High-Frequency Data, Chicago (May 2016).
+- [Three models of market impact](/assets/slides/Chicago2016OptimalExecution) (Chicago (May 2016)
 
 - [A parsimonious arbitrage-free implied volatility parameterization with application to the valuation of volatility derivatives](/assets/slides/madrid2004.pdf) (Madrid, April 2004)
 
