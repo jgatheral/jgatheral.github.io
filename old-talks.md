@@ -87,6 +87,11 @@ Center for the Study of Finance and Insurance, Osaka University (December 2012).
 
 Market Microstructure: Confronting many Viewpoints, Paris (December 2012).
 
+
+------------------
+
+## No slides
+
 â€¢Â <a href="http://faculty.baruch.cuny.edu/jgatheral/JOIM2011.pdf"><em>Optimal order execution</em>Â </a>
 
 JOIM Fall Conference, Boston (October 2011).
