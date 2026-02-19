@@ -4,7 +4,7 @@ title: Earlier Talks
 permalink: /old-talks/
 ---
 
-## Earlier Talks
+
 
 A selection of earlier presentations.
 
