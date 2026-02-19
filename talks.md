@@ -6,6 +6,8 @@ permalink: /talks/
 
 ## Recent Talks
 
+- [The SSR under Quadratic Rough Heston](/assets/slides/QRH-SSR-CBOE-2025.pdf) (Chicago, October 2025)
+
 - [10 Years of Rough Volatility: A Current Perspective](/assets/slides/RoughVolatilityBologna2024.pdf) (Bologna, April 2024)
 
 - [Volatility is rough](/assets/slides/RoughVolatilityBaruch2024.pdf) (Baruch College, March 2024)
