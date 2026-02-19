@@ -12,4 +12,4 @@ permalink: /talks/
 
 - <a href="https://mfe.baruch.cuny.edu/wp-content/uploads/2024/03/SSR-BBQ-2023.pdf"><em>Computing skew-stickiness</em></a> (Bloomberg, New York, November 2023).
 
- <a href="old_talks/old_talks.html<em>10 Years of rough volatility:  A current perspective</em> </a>
+ <a href="files/old_talks.html"><em>10 Years of rough volatility:  A current perspective</em> </a>
