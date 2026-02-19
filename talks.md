@@ -20,17 +20,7 @@ permalink: /talks/
 
 - [A parsimonious arbitrage-free implied volatility parameterization with application to the valuation of volatility derivatives](/assets/slides/madrid2004.pdf) (Madrid, April 2004)
 
-â€¢Â <a href="http://faculty.baruch.cuny.edu/jgatheral/barcelona2003.pdf"><em>Modeling the Implied Volatility Surface</em>Â </a>
 
-Global Derivatives, Barcelona (May 2003).
-
-â€¢Â <a href="http://faculty.baruch.cuny.edu/jgatheral/rationalshape.pdf"><em>Rational Shapes of the Volatility Surface</em>Â </a>
-
-Quant Congress USA, Boston (June 2000).
-
-â€¢Â <a href="http://faculty.baruch.cuny.edu/jgatheral/hedgevolcolumbia0999.pdf"><em>Volatility and Hedging Errors</em>Â </a>
-
-Columbia University (September 1999).
 
 ----
 
