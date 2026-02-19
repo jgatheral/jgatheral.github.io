@@ -12,11 +12,11 @@ permalink: /talks/
 
 - [Computing skew-stickiness](/assets/slides/SSR-BBQ-2023.pdf) (Bloomberg, NY, November 2023)
 
-- [Skew-stickiness under rough volatility](assets/slides/SSR-QuantMinds-2023.pdf) (Barcelona, November 2023)
+- [Skew-stickiness under rough volatility](/assets/slides/SSR-QuantMinds-2023.pdf) (Barcelona, November 2023)
 
+----
 
-
- ## Earlier Talks
+## Earlier Talks
 
 - [Earlier talks](/old-talks/)
 
