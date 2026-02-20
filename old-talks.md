@@ -60,9 +60,7 @@ permalink: /old-talks/
 - [Random Matrix Theory and Covariance Estimation](/assets/slides/RandomMatrixCovariance2007.pdf) (NYU, October 2008)
 
 
-â€¢Â <a href="http://faculty.baruch.cuny.edu/jgatheral/FurtherVolDerivatives2008.pdf"><em>Further Developments in Volatility Derivatives Pricing</em>Â </a>
-
-Global Derivatives, Paris (May 2008).
+- [urther Developments in Volatility Derivatives Pricing](/assets/slides/FurtherVolDerivatives2008.pdf) (Paris, May 2008)
 
 - [Developments in Volatility Derivatives Pricing](VolDerivatives2007.pdf) (Paris, May 2007)
 
