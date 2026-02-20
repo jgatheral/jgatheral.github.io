@@ -99,4 +99,5 @@ Global Derivatives, Barcelona (May 2003).
 
 Quant Congress USA, Boston (June 2000).
 
-[Volatility and Hedging Errors](/assets/slides/Gatheral - Volatility and Hedging Errors.pdf) (Columbia, September 1999)
+[Volatility and Hedging Errors](/assets/slides/Columbia1999.pdf) (Columbia, September 1999)
+
