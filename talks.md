@@ -22,7 +22,7 @@ permalink: /talks/
 
 An invited video presentation in the Jean-Philippe Bouchaud series <i>Interactions, RÃ©troactions, Crises</i>, CollÃ¨ge de France, Paris, (April 2021).
 
-- [The Complex Dynamics of Financial Price](/assets/slides/â€¢Â <a href="https://www.college-de-france.fr/site/jean-philippe-bouchaud/seminar-2021-04-07-11h00.htm"><em>The Complex Dynamics of Financial Prices</em>Â </a>(Online, April 2021)
+- [The Complex Dynamics of Financial Price](/assets/slides/â€¢Â <a href="https://www.college-de-france.fr/site/jean-philippe-bouchaud/seminar-2021-04-07-11h00.htm"><em>The Complex Dynamics of Financial Prices</em>Â </a>(Collège de France, April 2021)
     - A link to the video: https://www.youtube.com/watch?v=F80eyEWdReg&t=1938s
 
 - [Three models of market impact](/assets/slides/Chicago2016OptimalExecution.pdf) (Chicago, May 2016)
