@@ -78,15 +78,11 @@ NYU Courant Institute Algorithmic Trading Conference (October 2008).
 
 Global Derivatives, Paris (May 2008).
 
-â€¢Â <a href="http://faculty.baruch.cuny.edu/jgatheral/VolDerivatives2007.pdf"><em>Developments in Volatility Derivatives Pricing</em>Â </a>
+- [Developments in Volatility Derivatives Pricing](VolDerivatives2007.pdf) (Paris, May 2007)
 
-Global Derivatives, Paris (May 2007).
+- [Real-time Volatility Estimation Under Zero Intelligence](/assets/slides/Amsterdam2006.pdf) (Amsterdam, June 2006)
 
-â€¢Â <a href="http://faculty.baruch.cuny.edu/jgatheral/Amsterdam2006.pdf"><em>Real-time Volatility Estimation Under Zero Intelligence</em>Â </a>
-
-TDTF, Amsterdam (June 2006).
-
-- [Valuation of volatility derivatives](/assets/slides/paris2005.pdf)(Paris, May 2005).
+- [Valuation of volatility derivatives](/assets/slides/paris2005.pdf)(Paris, May 2005)
 
 - [Modeling the Implied Volatility Surface](/assets/slides/barcelona2003.pdf) (Barcelona, May 2003)
 
