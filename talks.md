@@ -20,7 +20,7 @@ permalink: /talks/
 
 
 - [The Complex Dynamics of Financial Price](/assets/slides/ComplexDynamics2021.pdf) (Collège de France, April 2021)
-    - A link to the video: https://www.youtube.com/watch?v=F80eyEWdReg&t=1938s
+    - [A link to the video](https://www.youtube.com/watch?v=F80eyEWdReg&t=1938s)
 
 
 - [Three models of market impact](/assets/slides/Chicago2016OptimalExecution.pdf) (Chicago, May 2016)
