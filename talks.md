@@ -19,7 +19,7 @@ permalink: /talks/
 ## Selected Earlier Talks
 
 
-- [The Complex Dynamics of Financial Price](/assets/slides/â€¢Â <a href="https://www.college-de-france.fr/site/jean-philippe-bouchaud/seminar-2021-04-07-11h00.htm"><em>The Complex Dynamics of Financial Prices</em>Â </a>
+- [The Complex Dynamics of Financial Price](/assets/slides/â€¢Â <a href="https://www.college-de-france.fr/site/jean-philippe-bouchaud/seminar-2021-04-07-11h00.htm"><em>The Complex Dynamics of Financial Prices</em>Â </a>(Online, April 2021)
 
 A link to the video: https://www.youtube.com/watch?v=F80eyEWdReg&t=1938s
 
