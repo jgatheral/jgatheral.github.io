@@ -23,6 +23,7 @@ permalink: /talks/
     - [A link to the video](https://www.youtube.com/watch?v=F80eyEWdReg&t=1938s)
 
 
+
 - [Three models of market impact](/assets/slides/Chicago2016OptimalExecution.pdf) (Chicago, May 2016)
 
 
