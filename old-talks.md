@@ -86,18 +86,11 @@ Global Derivatives, Paris (May 2007).
 
 TDTF, Amsterdam (June 2006).
 
-â€¢Â <a href="http://faculty.baruch.cuny.edu/jgatheral/paris2005.pdf"><em>Valuation of volatility derivatives</em>Â </a>
+- [Valuation of volatility derivatives](/assets/slides/paris2005.pdf)(Paris, May 2005).
 
-Global Derivatives, Paris (May 2005).
+- [Modeling the Implied Volatility Surface](/assets/slides/barcelona2003.pdf) (Barcelona, May 2003)
 
+- [Rational Shapes of the Volatility Surface](/assets/slides/rationalshape.pdf) (Boston, June 2000)
 
-â€¢Â <a href="http://faculty.baruch.cuny.edu/jgatheral/barcelona2003.pdf"><em>Modeling the Implied Volatility Surface</em>Â </a>
-
-Global Derivatives, Barcelona (May 2003).
-
-â€¢Â <a href="http://faculty.baruch.cuny.edu/jgatheral/rationalshape.pdf"><em>Rational Shapes of the Volatility Surface</em>Â </a>
-
-Quant Congress USA, Boston (June 2000).
-
-[Volatility and Hedging Errors](/assets/slides/Columbia1999.pdf) (Columbia, September 1999)
+- [Volatility and Hedging Errors](/assets/slides/Columbia1999.pdf) (Columbia, September 1999)
 
