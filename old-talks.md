@@ -47,7 +47,7 @@ permalink: /old-talks/
 
 - [Optimal order execution](/assets/slides/JOIM2011.pdf)( Boston, October 2011).
 
-- [The execution puzzle: How and when to trade to minimize cost](/assets/slides/Campos2011.pdf) (Campos do Jordäo, August 2011)
+- [The execution puzzle: How and when to trade to minimize cost](/assets/slides/Campos2011.pdf) (Campos do Jordão, August 2011)
 
 - [The variational most-likely-path](/assets/slides/GlobalDerivatives2011Volatility.pdf) (Paris, April 2011)
 
