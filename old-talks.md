@@ -57,11 +57,7 @@ permalink: /old-talks/
 
 - [Price manipulation in models of the order book](/assets/slides/Buzios2009.pdf) (Búzios, November 2009)
 
-.
-
-â€¢Â <a href="http://faculty.baruch.cuny.edu/jgatheral/RandomMatrixCovariance2008.pdf"><em>Random Matrix Theory and Covariance Estimation</em>Â </a>
-
-NYU Courant Institute Algorithmic Trading Conference (October 2008).
+- [Random Matrix Theory and Covariance Estimation](/assets/slides/RandomMatrixCovariance2008.pdf) (NYU, October 2008)
 
 
 â€¢Â <a href="http://faculty.baruch.cuny.edu/jgatheral/FurtherVolDerivatives2008.pdf"><em>Further Developments in Volatility Derivatives Pricing</em>Â </a>
