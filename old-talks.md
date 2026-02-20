@@ -46,15 +46,6 @@ permalink: /old-talks/
 
 - [The variational most-likely-path](/assets/slides/GlobalDerivatives2011Volatility.pdf) (Paris, April 2011)
 
-  
-------------------
-
-## No slides
-
-- [Price manipulation in models of the order book](/assets/slides/ParisMicrostructure2010.pdf) (Paris, December 2010)
-
-- 
-
 - [Optimal Order Execution](/assets/slides/PetitDejeuner2010.pdf) (Paris, April 2010)
 
 - [Price manipulation in models of the order book](/assets/slides/Buzios2009.pdf) (Búzios, November 2009)
