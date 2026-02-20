@@ -26,7 +26,7 @@ An invited video presentation in the Jean-Philippe Bouchaud series <i>Interactio
 
 A link to the video: https://www.youtube.com/watch?v=F80eyEWdReg&t=1938s
 
-- [Three models of market impact](/assets/slides/Chicago2016OptimalExecution) (Chicago, May 2016)
+- [Three models of market impact](/assets/slides/Chicago2016OptimalExecution.pdf) (Chicago, May 2016)
 
 - [A parsimonious arbitrage-free implied volatility parameterization with application to the valuation of volatility derivatives](/assets/slides/madrid2004.pdf) (Madrid, April 2004)
 
