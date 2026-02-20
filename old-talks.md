@@ -40,18 +40,20 @@ permalink: /old-talks/
 
 - [Market Impact with Autocorrelated Order Flow Under Perfect Competition: The Donier Model](/assets/slides/ParisMicrostructure2012.pdf) (Paris, December 2012).
 
-
-------------------
-
-## No slides
-
 - [Optimal order execution](/assets/slides/JOIM2011.pdf)( Boston, October 2011).
 
 - [The execution puzzle: How and when to trade to minimize cost](/assets/slides/Campos2011.pdf) (Campos do Jordão, August 2011)
 
 - [The variational most-likely-path](/assets/slides/GlobalDerivatives2011Volatility.pdf) (Paris, April 2011)
 
+  
+------------------
+
+## No slides
+
 - [Price manipulation in models of the order book](/assets/slides/ParisMicrostructure2010.pdf) (Paris, December 2010)
+
+- 
 
 - [Optimal Order Execution](/assets/slides/PetitDejeuner2010.pdf) (Paris, April 2010)
 
