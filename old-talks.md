@@ -6,7 +6,6 @@ permalink: /old-talks/
 
 
 
-Assorted talks
 
 - [Volatility is rough](/assets/slides/RoughVolatilityBaruch2024.pdf) (Baruch College, March 2024)
 
