@@ -19,17 +19,18 @@ permalink: /talks/
 ## Selected Earlier Talks
 
 
-
-An invited video presentation in the Jean-Philippe Bouchaud series <i>Interactions, RÃ©troactions, Crises</i>, CollÃ¨ge de France, Paris, (April 2021).
-
 - [The Complex Dynamics of Financial Price](/assets/slides/ComplexDynamics2021.pdf) (Collège de France, April 2021)
     - A link to the video: https://www.youtube.com/watch?v=F80eyEWdReg&t=1938s
 
+
 - [Three models of market impact](/assets/slides/Chicago2016OptimalExecution.pdf) (Chicago, May 2016)
+
 
 - [Arbitrage-free SVI volatility surfaces](/assets/slides/OsakaSVI2012.pdf) (Osaka, December 2012)
 
+
 - [No-Dynamic-Arbitrage and Market Impact](/assets/slides/Liquidity2008.pdf) (Chicago, November 2008)
+
 
 - [A parsimonious arbitrage-free implied volatility parameterization with application to the valuation of volatility derivatives](/assets/slides/madrid2004.pdf) (Madrid, April 2004)
 
