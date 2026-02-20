@@ -24,11 +24,7 @@ A selection of earlier presentations.
 
 - [Rough volatility: An overview](/assets/slides/RoughVolatilityColumbia2018.pdf) (Columbia, January 2018)
 
-
-
-â€¢Â <a href="http://mfe.baruch.cuny.edu/wp-content/uploads/2017/05/RoughVolatilityBarcelona2017.pdf"><em>Rough volatility: An overview</em>Â </a>
-
-Global Derivatives, Barcelona (May 2017).
+- [Rough volatility: An overview](/assets/slides/RoughVolatilityBarcelona2017.pdf) (Barcelona, May 2017).
 
 â€¢Â <a href="http://mfe.baruch.cuny.edu/wp-content/uploads/2017/05/Chicago2016OptimalExecution.pdf"><em>Three models of market impact</em></a>
 
