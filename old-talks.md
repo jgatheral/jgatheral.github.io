@@ -11,25 +11,22 @@ A selection of earlier presentations.
 - [Volatility is rough](/assets/slides/RoughVolatilityBaruch2024.pdf) (Baruch College, March 2024)
 
 
-- [Computing skew-stickiness](/assets/slides/SSR-BBQ-2023.pdf) (Bloomberg NY, (November 2023).
+- [Computing skew-stickiness](/assets/slides/SSR-BBQ-2023.pdf) (Bloomberg NY, November 2023).
 
 - [Skew-stickiness under rough volatility](/assets/slides/SSR-QuantMinds-2023.pdf) (Barcelona, November 2023)
 
 
-    /assets/slides/
 
-Quantminds International, Barcelona, (November 2023).
+- [Pricing in affine forward variance models](/assets/slides/AFVPricingDevelopmentsQuantminds2022.pdf) (Barcelona, November 2022).
 
-[Pricing in affine forward variance models](/assets/slides/AFVPricingDevelopmentsQuantminds2022.pdf) (Barcelona, November 2022).
 
-â€¢Â <a href="https://www.college-de-france.fr/site/jean-philippe-bouchaud/seminar-2021-04-07-11h00.htm"><em>The Complex Dynamics of Financial Prices</em>Â </a>
 
 An invited video presentation in the Jean-Philippe Bouchaud series <i>Interactions, RÃ©troactions, Crises</i>, CollÃ¨ge de France, Paris, (April 2021).
 
-â€¢Â <a href="http://mfe.baruch.cuny.edu/wp-content/uploads/2021/02/DiamondsBBQ2021Corrected.pdf"><em>Diamond trees and the forest expansion</em>Â </a>
+[Diamond trees and the forest expansion](/assets/slides/DiamondsBBQ2021Corrected.pdf) (Bloomberg NY, January 2021)
 
-Bloomberg Quant Seminar, New York, (January 2021).
 
+    /assets/slides/
 â€¢Â <a href="http://mfe.baruch.cuny.edu/wp-content/uploads/2020/05/DiamondsColumbia2020.pdf"><em>Diamond trees, forests, cumulants, and martingales</em>Â </a>
 
 Mathematical Finance Seminar, Columbia University, (April 2020).
