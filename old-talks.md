@@ -24,20 +24,16 @@ Assorted talks
 
 - [Rough volatility: An overview](/assets/slides/RoughVolatilityColumbia2018.pdf) (Columbia, January 2018)
 
-- [Rough volatility: An overview](/assets/slides/RoughVolatilityBarcelona2017.pdf) (Barcelona, May 2017).
+- [Rough volatility: An overview](/assets/slides/RoughVolatilityBarcelona2017.pdf) (Barcelona, May 2017)
 
 - [Random Matrix Theory and Correlation Estimation](/assets/slides/RandomMatrixBaruch2015.pdf) (Baruch College, February 2015)
-    - Companion R-code:Â <a href="https://mfe.baruch.cuny.edu/wp-content/uploads/2021/02/RMT.R.zip">RMT.R</a>.
+    - Companion R-code:Â <a href="https://mfe.baruch.cuny.edu/wp-content/uploads/2021/02/RMT.R.zip">RMT.R</a>
 
-â€¢Â <a href="http://mfe.baruch.cuny.edu/wp-content/uploads/2012/09/FractionalVolatility2014BBQ.pdf"><em>Fractional volatility models</em></a>
-
-Bloomberg Quant Seminar, New York (June 2014).
+- [Fractional volatility models](/assets/slides/FractionalVolatility2014BBQ.pdf) (Bloomberg NY, June 2014)
 
 - [Fast Ninomiya-Victoir calibration of the Double-Mean-Reverting model](/assets/sides/NahaDMR2013.pdf) (Okinawa, October 2013)
 
-â€¢ <a href="http://mfe.baruch.cuny.edu/wp-content/uploads/2012/09/BeijingSPXVIX2013.pdf"><em>Joint modeling of SPX and VIX</em> </a>
-
-National School of Development, Peking University (October 2013).
+- [Joint modeling of SPX and VIX](/assets/slides/BeijingSPXVIX2013.pdf) (Beijing, October 2013)
 
 â€¢ <a href="http://mfe.baruch.cuny.edu/wp-content/uploads/2013/04/BloombergSVI2013.pdf"><em>The Volatility Surface: Statics and Dynamics</em> </a>
 
