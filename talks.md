@@ -29,6 +29,8 @@ An invited video presentation in the Jean-Philippe Bouchaud series <i>Interactio
 
 - [Arbitrage-free SVI volatility surfaces](/assets/slides/OsakaSVI2012.pdf) (Osaka, December 2012)
 
+- [No-Dynamic-Arbitrage and Market Impact](/assets/slides/Liquidity2008.pdf) (Chicago, November 2008)
+
 - [A parsimonious arbitrage-free implied volatility parameterization with application to the valuation of volatility derivatives](/assets/slides/madrid2004.pdf) (Madrid, April 2004)
 
 
