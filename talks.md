@@ -33,6 +33,9 @@ permalink: /talks/
 - [No-Dynamic-Arbitrage and Market Impact](/assets/slides/Liquidity2008.pdf) (Chicago, November 2008)
 
 
+- [Consistent Modeling of SPX and VIX Options](/assets/slides/Bachelier2008.pdf) (Bachelier London, July 2008)
+
+
 - [A parsimonious arbitrage-free implied volatility parameterization with application to the valuation of volatility derivatives](/assets/slides/madrid2004.pdf) (Madrid, April 2004)
 
 
