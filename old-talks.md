@@ -51,17 +51,11 @@ permalink: /old-talks/
 
 - [The variational most-likely-path](/assets/slides/GlobalDerivatives2011Volatility.pdf) (Paris, April 2011)
 
-â€¢Â <a href="http://faculty.baruch.cuny.edu/jgatheral/ParisMicrostructure2010.pdf"><em>Price manipulation in models of the order book</em>Â </a>
+- [Price manipulation in models of the order book](/assets/slides/ParisMicrostructure2010.pdf) (Paris, December 2010)
 
-Market Microstructure: Confronting many Viewpoints, Paris (December 2010).
+- [Optimal Order Execution](/assets/slides/PetitDejeuner2010.pdf) (Paris, April 2010)
 
-â€¢Â <a href="http://faculty.baruch.cuny.edu/jgatheral/PetitDejeuner2010.pdf"><em>Optimal Order Execution</em></a>
-
-Petit Dejeuner de la Finance, Paris (April 2010).
-
-â€¢Â <a href="http://faculty.baruch.cuny.edu/jgatheral/Buzios2009.pdf"><em>Price manipulation in models of the order book</em>Â </a>
-
-RiO 2009, BÃºzios, Brasil (November 2009).
+- [Price manipulation in models of the order book](/assets/slides/Buzios2009.pdf) (Búzios, November 2009)
 
 .
 
