@@ -99,6 +99,4 @@ Global Derivatives, Barcelona (May 2003).
 
 Quant Congress USA, Boston (June 2000).
 
-â€¢Â <a href="http://faculty.baruch.cuny.edu/jgatheral/hedgevolcolumbia0999.pdf"><em>Volatility and Hedging Errors</em>Â </a>
-
-Columbia University (September 1999).
+[Volatility and Hedging Errors](/assets/slides/hedgevolcolumbia0999.pdf) (Columbia, September 1999)
