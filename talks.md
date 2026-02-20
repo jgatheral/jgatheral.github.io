@@ -27,6 +27,9 @@ permalink: /talks/
 - [Three models of market impact](/assets/slides/Chicago2016OptimalExecution.pdf) (Chicago, May 2016)
 
 
+- [Rough volatility](/asssets/slides/RoughVolatilityOsaka2016.pdf) (Osaka, January 2016)
+
+
 - [Arbitrage-free SVI volatility surfaces](/assets/slides/OsakaSVI2012.pdf) (Osaka, December 2012)
 
 
