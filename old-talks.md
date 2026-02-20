@@ -26,15 +26,8 @@ A selection of earlier presentations.
 
 - [Rough volatility: An overview](/assets/slides/RoughVolatilityBarcelona2017.pdf) (Barcelona, May 2017).
 
-â€¢Â <a href="http://mfe.baruch.cuny.edu/wp-content/uploads/2017/05/Chicago2016OptimalExecution.pdf"><em>Three models of market impact</em></a>
-
-Market Microstructure and High-Frequency Data, Chicago (May 2016).
-
-â€¢Â <a href="http://mfe.baruch.cuny.edu/wp-content/uploads/2015/02/RandomMatrixBaruch2015.pdf"><em>Random Matrix Theory and Correlation Estimation</em>Â </a>
-
-Baruch College Mathematics Society (February 2015).
-
-Companion R-code:Â <a href="https://mfe.baruch.cuny.edu/wp-content/uploads/2021/02/RMT.R.zip">RMT.R</a>.
+- [Random Matrix Theory and Correlation Estimation](/assets/slides/RandomMatrixBaruch2015.pdf) (Baruch College, February 2015)
+    - Companion R-code:Â <a href="https://mfe.baruch.cuny.edu/wp-content/uploads/2021/02/RMT.R.zip">RMT.R</a>.
 
 â€¢Â <a href="http://mfe.baruch.cuny.edu/wp-content/uploads/2012/09/FractionalVolatility2014BBQ.pdf"><em>Fractional volatility models</em></a>
 
