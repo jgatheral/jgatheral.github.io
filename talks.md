@@ -24,7 +24,7 @@ permalink: /talks/
     
 
 - [Diamond trees and the forest expansion](/assets/slides/DiamondsBBQ2021Corrected.pdf) (Bloomberg NY, January 2021)
-- 
+  
 
 - [Three models of market impact](/assets/slides/Chicago2016OptimalExecution.pdf) (Chicago, May 2016)
 
