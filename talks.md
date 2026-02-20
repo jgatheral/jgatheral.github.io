@@ -12,7 +12,7 @@ permalink: /talks/
 
 - [10 Years of Rough Volatility: A Current Perspective](/assets/slides/RoughVolatilityBologna2024.pdf) (Bologna, April 2024)
 
-
+  
 
 ----
 
