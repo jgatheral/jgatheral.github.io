@@ -12,11 +12,14 @@ permalink: /talks/
 
 - [10 Years of Rough Volatility: A Current Perspective](/assets/slides/RoughVolatilityBologna2024.pdf) (Bologna, April 2024)
 
-- [Volatility is rough](/assets/slides/RoughVolatilityBaruch2024.pdf) (Baruch College, March 2024)
+
 
 ----
 
 ## Selected Earlier Talks
+
+
+- [The Complex Dynamics of Financial Price](/assets/slides/â€¢Â <a href="https://www.college-de-france.fr/site/jean-philippe-bouchaud/seminar-2021-04-07-11h00.htm"><em>The Complex Dynamics of Financial Prices</em>Â </a>
 
 A link to the video: https://www.youtube.com/watch?v=F80eyEWdReg&t=1938s
 
