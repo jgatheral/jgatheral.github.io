@@ -27,6 +27,8 @@ An invited video presentation in the Jean-Philippe Bouchaud series <i>Interactio
 
 - [Three models of market impact](/assets/slides/Chicago2016OptimalExecution.pdf) (Chicago, May 2016)
 
+- [Arbitrage-free SVI volatility surfaces](/assets/slides/OsakaSVI2012.pdf) (Osaka, December 2012)
+
 - [A parsimonious arbitrage-free implied volatility parameterization with application to the valuation of volatility derivatives](/assets/slides/madrid2004.pdf) (Madrid, April 2004)
 
 
