@@ -49,9 +49,7 @@ permalink: /old-talks/
 
 - [The execution puzzle: How and when to trade to minimize cost](/assets/slides/Campos2011.pdf) (Campos do Jordäo, August 2011)
 
-â€¢Â <a href="http://faculty.baruch.cuny.edu/jgatheral/GlobalDerivatives2011Volatility.pdf"><em>The variational most-likely-path</em>Â </a>
-
-Global Derivatives, Paris (April 2011).
+- [The variational most-likely-path](/assets/slides/GlobalDerivatives2011Volatility.pdf) (Paris, April 2011)
 
 â€¢Â <a href="http://faculty.baruch.cuny.edu/jgatheral/ParisMicrostructure2010.pdf"><em>Price manipulation in models of the order book</em>Â </a>
 
