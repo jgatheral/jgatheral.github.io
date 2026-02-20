@@ -33,9 +33,7 @@ Assorted talks
 
 Bloomberg Quant Seminar, New York (June 2014).
 
-â€¢ <a href="http://mfe.baruch.cuny.edu/wp-content/uploads/2012/09/NahaDMR2013.pdf"><em>Fast Ninomiya-Victoir calibration of the Double-Mean-Reverting model</em> </a>
-
-Stochastic Processes and their Statistics in Finance, Okinawa (October 2013).
+- [Fast Ninomiya-Victoir calibration of the Double-Mean-Reverting model](/assets/sides/NahaDMR2013.pdf) (Okinawa, October 2013)
 
 â€¢ <a href="http://mfe.baruch.cuny.edu/wp-content/uploads/2012/09/BeijingSPXVIX2013.pdf"><em>Joint modeling of SPX and VIX</em> </a>
 
@@ -86,9 +84,6 @@ RiO 2009, BÃºzios, Brasil (November 2009).
 
 NYU Courant Institute Algorithmic Trading Conference (October 2008).
 
-â€¢Â <a href="http://faculty.baruch.cuny.edu/jgatheral/Bachelier2008.pdf"><em>Consistent Modeling of SPX and VIX Options</em>Â </a>
-
-Bachelier Congress, London (July 2008).
 
 â€¢Â <a href="http://faculty.baruch.cuny.edu/jgatheral/FurtherVolDerivatives2008.pdf"><em>Further Developments in Volatility Derivatives Pricing</em>Â </a>
 
