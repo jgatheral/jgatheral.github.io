@@ -16,7 +16,7 @@ Assorted talks
 
 - [Pricing in affine forward variance models](/assets/slides/AFVPricingDevelopmentsQuantminds2022.pdf) (Barcelona, November 2022)
 
-- [Diamond trees and the forest expansion](/assets/slides/DiamondsBBQ2021Corrected.pdf) (Bloomberg NY, January 2021)
+
 
 - [Diamond trees, forests, cumulants, and martingales](/assets/slides/DiamondsColumbia2020.pdf) (Columbia, 2020)
 
