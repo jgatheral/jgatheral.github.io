@@ -25,6 +25,8 @@ permalink: /old-talks/
 
 - [Rough volatility: An overview](/assets/slides/RoughVolatilityBarcelona2017.pdf) (Barcelona, May 2017)
 
+- https://www.youtube.com/watch?v=gW073Tnx7CE
+
 - [Random Matrix Theory and Correlation Estimation](/assets/slides/RandomMatrixBaruch2015.pdf) (Baruch College, February 2015)
     - Companion R-code: <a href="https://mfe.baruch.cuny.edu/wp-content/uploads/2021/02/RMT.R.zip">RMT.R</a>
 
@@ -47,9 +49,7 @@ permalink: /old-talks/
 
 JOIM Fall Conference, Boston (October 2011).
 
-â€¢Â <a href="http://faculty.baruch.cuny.edu/jgatheral/Campos2011.pdf"><em>The execution puzzle: How and when to trade to minimize cost</em>Â </a>
-
-5th International Financial and Capital Markets Conference, Campos do JordÃ£o (August 2011).
+- [The execution puzzle: How and when to trade to minimize cost](/assets/slides/Campos2011.pdf) (Campos do Jordäo, August 2011)
 
 â€¢Â <a href="http://faculty.baruch.cuny.edu/jgatheral/GlobalDerivatives2011Volatility.pdf"><em>The variational most-likely-path</em>Â </a>
 
