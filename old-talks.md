@@ -45,9 +45,7 @@ National School of Development, Peking University (October 2013).
 
 Bloomberg Quant Seminar, New York (January 2013).
 
-â€¢Â <a href="http://mfe.baruch.cuny.edu/wp-content/uploads/2013/01/OsakaSVI2012.pdf"><em>Arbitrage-free SVI volatility surfaces</em>Â </a>
 
-Center for the Study of Finance and Insurance, Osaka University (December 2012).
 
 â€¢Â <a href="http://mfe.baruch.cuny.edu/wp-content/uploads/2013/01/ParisMicrostructure2012.pdf"><em>Market Impact with Autocorrelated Order Flow Under Perfect Competition: The Donier Model</em>Â </a>
 
@@ -82,9 +80,7 @@ Petit Dejeuner de la Finance, Paris (April 2010).
 
 RiO 2009, BÃºzios, Brasil (November 2009).
 
-â€¢Â <a href="http://faculty.baruch.cuny.edu/jgatheral/Liquidity2008.pdf"><em>No-Dynamic-Arbitrage and Market Impact</em>Â </a>
-
-University of Chicago, Stevanovich Center Conference on Liquidity (November 2008).
+.
 
 â€¢Â <a href="http://faculty.baruch.cuny.edu/jgatheral/RandomMatrixCovariance2008.pdf"><em>Random Matrix Theory and Covariance Estimation</em>Â </a>
 
