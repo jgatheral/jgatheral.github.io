@@ -106,9 +106,6 @@ TDTF, Amsterdam (June 2006).
 
 Global Derivatives, Paris (May 2005).
 
-â€¢Â <a href="http://faculty.baruch.cuny.edu/jgatheral/madrid2004.pdf"><em>A parsimonious arbitrage-free implied volatility parameterization with application to the valuation of volatility derivatives</em>Â </a>
-
-Global Derivatives, Madrid (May 2004).
 
 â€¢Â <a href="http://faculty.baruch.cuny.edu/jgatheral/barcelona2003.pdf"><em>Modeling the Implied Volatility Surface</em>Â </a>
 
