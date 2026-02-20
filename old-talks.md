@@ -27,7 +27,7 @@ Assorted talks
 - [Rough volatility: An overview](/assets/slides/RoughVolatilityBarcelona2017.pdf) (Barcelona, May 2017)
 
 - [Random Matrix Theory and Correlation Estimation](/assets/slides/RandomMatrixBaruch2015.pdf) (Baruch College, February 2015)
-    - Companion R-code:Â <a href="https://mfe.baruch.cuny.edu/wp-content/uploads/2021/02/RMT.R.zip">RMT.R</a>
+    - Companion R-code: <a href="https://mfe.baruch.cuny.edu/wp-content/uploads/2021/02/RMT.R.zip">RMT.R</a>
 
 - [Fractional volatility models](/assets/slides/FractionalVolatility2014BBQ.pdf) (Bloomberg NY, June 2014)
 
@@ -35,15 +35,9 @@ Assorted talks
 
 - [Joint modeling of SPX and VIX](/assets/slides/BeijingSPXVIX2013.pdf) (Beijing, October 2013)
 
-â€¢ <a href="http://mfe.baruch.cuny.edu/wp-content/uploads/2013/04/BloombergSVI2013.pdf"><em>The Volatility Surface: Statics and Dynamics</em> </a>
+- [The Volatility Surface: Statics and Dynamics](/assets/slides/BloombergSVI2013.pdf) (Bloomberg NY, January 2013)
 
-Bloomberg Quant Seminar, New York (January 2013).
-
-
-
-â€¢Â <a href="http://mfe.baruch.cuny.edu/wp-content/uploads/2013/01/ParisMicrostructure2012.pdf"><em>Market Impact with Autocorrelated Order Flow Under Perfect Competition: The Donier Model</em>Â </a>
-
-Market Microstructure: Confronting many Viewpoints, Paris (December 2012).
+- [Market Impact with Autocorrelated Order Flow Under Perfect Competition: The Donier Model](/assets/slides/ParisMicrostructure2012.pdf) (Paris, December 2012).
 
 
 ------------------
