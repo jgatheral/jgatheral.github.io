@@ -16,7 +16,7 @@ permalink: /talks/
 
 ----
 
-## Selected Earlier Talks
+## Selected Other Talks
 
 
 - [The Complex Dynamics of Financial Price](/assets/slides/ComplexDynamics2021.pdf) (Collège de France, April 2021)
@@ -39,11 +39,7 @@ permalink: /talks/
 
 ----
 
-## Earlier Talks
+## Assorted Other Talks
 
-- [Earlier talks](/old-talks/)
-
-- - [Computing skew-stickiness](/assets/slides/SSR-BBQ-2023.pdf) (Bloomberg, NY, November 2023)
-
-- [Skew-stickiness under rough volatility](/assets/slides/SSR-QuantMinds-2023.pdf) (Barcelona, November 2023)
+- [Other talks](/old-talks/)
 
