@@ -32,7 +32,7 @@ permalink: /old-talks/
 
 - [Fractional volatility models](/assets/slides/FractionalVolatility2014BBQ.pdf) (Bloomberg NY, June 2014)
 
-- [Fast Ninomiya-Victoir calibration of the Double-Mean-Reverting model](/assets/sides/NahaDMR2013.pdf) (Okinawa, October 2013)
+- [Fast Ninomiya-Victoir calibration of the Double-Mean-Reverting model](/assets/slides/NahaDMR2013.pdf) (Okinawa, October 2013)
 
 - [Joint modeling of SPX and VIX](/assets/slides/BeijingSPXVIX2013.pdf) (Beijing, October 2013)
 
