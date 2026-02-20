@@ -72,7 +72,7 @@ permalink: /old-talks/
 
 - [Modeling the Implied Volatility Surface](/assets/slides/barcelona2003.pdf) (Barcelona, May 2003)
 
-- [Rational Shapes of the Volatility Surface](/assets/slides/rationalshape.pdf) (Boston, June 2000)
+- [Rational Shapes of the Volatility Surface](/assets/slides/RationalShape.pdf) (Boston, June 2000)
 
 - [Volatility and Hedging Errors](/assets/slides/Columbia1999.pdf) (Columbia, September 1999)
 
