@@ -10,34 +10,21 @@ A selection of earlier presentations.
 
 - [Volatility is rough](/assets/slides/RoughVolatilityBaruch2024.pdf) (Baruch College, March 2024)
 
-
 - [Computing skew-stickiness](/assets/slides/SSR-BBQ-2023.pdf) (Bloomberg NY, November 2023).
 
 - [Skew-stickiness under rough volatility](/assets/slides/SSR-QuantMinds-2023.pdf) (Barcelona, November 2023)
 
+- [Pricing in affine forward variance models](/assets/slides/AFVPricingDevelopmentsQuantminds2022.pdf) (Barcelona, November 2022)
+
+- [Diamond trees and the forest expansion](/assets/slides/DiamondsBBQ2021Corrected.pdf) (Bloomberg NY, January 2021)
+
+- [Diamond trees, forests, cumulants, and martingales](/assets/slides/DiamondsColumbia2020.pdf) (Columbia, 2020)
+
+- [Diamond trees, forests, and the exponentiation theorem](/assets/slides/DiamondsToronto2019.pdf) (Toronto, June 2019)
+
+- [Rough volatility: An overview](/assets/slides/RoughVolatilityColumbia2018.pdf) (Columbia, January 2018)
 
 
-- [Pricing in affine forward variance models](/assets/slides/AFVPricingDevelopmentsQuantminds2022.pdf) (Barcelona, November 2022).
-
-
-
-An invited video presentation in the Jean-Philippe Bouchaud series <i>Interactions, RÃ©troactions, Crises</i>, CollÃ¨ge de France, Paris, (April 2021).
-
-[Diamond trees and the forest expansion](/assets/slides/DiamondsBBQ2021Corrected.pdf) (Bloomberg NY, January 2021)
-
-
-    /assets/slides/
-â€¢Â <a href="http://mfe.baruch.cuny.edu/wp-content/uploads/2020/05/DiamondsColumbia2020.pdf"><em>Diamond trees, forests, cumulants, and martingales</em>Â </a>
-
-Mathematical Finance Seminar, Columbia University, (April 2020).
-
-â€¢Â <a href="http://mfe.baruch.cuny.edu/wp-content/uploads/2020/05/DiamondsToronto2019.pdf"><em>Diamond trees, forests, and the exponentiation theorem</em>Â </a>
-
-2019 SIAM Financial Mathematics and Engineering, Toronto, (June 2019).
-
-â€¢Â <a href="http://mfe.baruch.cuny.edu/wp-content/uploads/2018/02/RoughVolatilityColumbia2018.pdf"><em>Rough volatility: An overview</em>Â </a>
-
-Financial Engineering Practitioners Seminar, Columbia University, (January 2018).
 
 â€¢Â <a href="http://mfe.baruch.cuny.edu/wp-content/uploads/2017/05/RoughVolatilityBarcelona2017.pdf"><em>Rough volatility: An overview</em>Â </a>
 
