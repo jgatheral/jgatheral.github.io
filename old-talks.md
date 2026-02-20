@@ -19,11 +19,11 @@ Bloomberg Quant Seminar, New York, (November 2023).
 
 â€¢Â <a href="https://mfe.baruch.cuny.edu/wp-content/uploads/2024/03/SSR-QuantMinds-2023.pdf"><em>Skew-stickiness under rough volatility</em>Â </a>
 
+/assets/slides/
+
 Quantminds International, Barcelona, (November 2023).
 
-â€¢Â <a href="https://mfe.baruch.cuny.edu/wp-content/uploads/2024/03/AFVPricingDevelopmentsQuantminds2022.pdf"><em>Pricing in affine forward variance models</em>Â </a>
-
-Quantminds International, Barcelona, (November 2022).
+[Pricing in affine forward variance models](/assets/slides/AFVPricingDevelopmentsQuantminds2022.pdf) (Barcelona, November 2022).
 
 â€¢Â <a href="https://www.college-de-france.fr/site/jean-philippe-bouchaud/seminar-2021-04-07-11h00.htm"><em>The Complex Dynamics of Financial Prices</em>Â </a>
 
