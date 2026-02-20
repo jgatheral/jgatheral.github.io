@@ -8,18 +8,15 @@ permalink: /old-talks/
 
 A selection of earlier presentations.
 
+- [Volatility is rough](/assets/slides/RoughVolatilityBaruch2024.pdf) (Baruch College, March 2024)
 
-â€¢Â <a href="https://mfe.baruch.cuny.edu/wp-content/uploads/2024/03/RoughVolatilityBaruch2024.pdf"><em>Volatility is rough</em>Â </a>
 
-A presentation at Baruch College, New York, (March 2024).
+- [Computing skew-stickiness](/assets/slides/SSR-BBQ-2023.pdf) (Bloomberg NY, (November 2023).
 
-â€¢Â <a href="https://mfe.baruch.cuny.edu/wp-content/uploads/2024/03/SSR-BBQ-2023.pdf"><em>Computing skew-stickiness</em>Â </a>
+- [Skew-stickiness under rough volatility](/assets/slides/SSR-QuantMinds-2023.pdf) (Barcelona, November 2023)
 
-Bloomberg Quant Seminar, New York, (November 2023).
 
-â€¢Â <a href="https://mfe.baruch.cuny.edu/wp-content/uploads/2024/03/SSR-QuantMinds-2023.pdf"><em>Skew-stickiness under rough volatility</em>Â </a>
-
-/assets/slides/
+    /assets/slides/
 
 Quantminds International, Barcelona, (November 2023).
 
