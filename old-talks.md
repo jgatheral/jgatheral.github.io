@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Earlier Talks
+title: Assorted Talks
 permalink: /old-talks/
 ---
 
 
 
-A selection of earlier presentations.
+Assorted talks
 
 - [Volatility is rough](/assets/slides/RoughVolatilityBaruch2024.pdf) (Baruch College, March 2024)
 
