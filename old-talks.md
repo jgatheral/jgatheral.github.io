@@ -45,9 +45,7 @@ permalink: /old-talks/
 
 ## No slides
 
-â€¢Â <a href="http://faculty.baruch.cuny.edu/jgatheral/JOIM2011.pdf"><em>Optimal order execution</em>Â </a>
-
-JOIM Fall Conference, Boston (October 2011).
+- [Optimal order execution](/assets/slides/JOIM2011.pdf)( Boston, October 2011).
 
 - [The execution puzzle: How and when to trade to minimize cost](/assets/slides/Campos2011.pdf) (Campos do Jordäo, August 2011)
 
