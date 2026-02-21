@@ -59,7 +59,7 @@ permalink: /old-talks/
 
 - [Real-time Volatility Estimation Under Zero Intelligence](/assets/slides/Amsterdam2006.pdf) (Amsterdam, June 2006)
 
-- [Valuation of volatility derivatives](/assets/slides/pVol2006.pdf)(NYU Stern, May 2005)
+- [Valuation of volatility derivatives](/assets/slides/Vol2006.pdf) (NYU Stern, May 2005)
 
 - [Modeling the Implied Volatility Surface](/assets/slides/barcelona2003.pdf) (Barcelona, May 2003)
 
