@@ -55,7 +55,7 @@ permalink: /old-talks/
 
 - [urther Developments in Volatility Derivatives Pricing](/assets/slides/FurtherVolDerivatives2008.pdf) (Paris, May 2008)
 
-- [Developments in Volatility Derivatives Pricing](/assets/slides/Der2007.pdf) (Paris, May 2007)
+- [Developments in Volatility Derivatives Pricing](/assets/slides/der2007.pdf) (Paris, May 2007)
 
 - [Real-time Volatility Estimation Under Zero Intelligence](/assets/slides/Amsterdam2006.pdf) (Amsterdam, June 2006)
 
