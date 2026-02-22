@@ -28,8 +28,6 @@ permalink: /old-talks/
   <a href="https://www.youtube.com/watch?v=gW073Tnx7CE"> YouTube ▶</a>
   </span>
 
-- https://www.youtube.com/watch?v=gW073Tnx7CE
-
 - [Random Matrix Theory and Correlation Estimation](/assets/slides/RandomMatrixBaruch2015.pdf) (Baruch College, February 2015)
     - Companion R-code: <a href="https://mfe.baruch.cuny.edu/wp-content/uploads/2021/02/RMT.R.zip">RMT.R</a>
 
