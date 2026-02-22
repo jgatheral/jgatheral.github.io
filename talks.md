@@ -6,7 +6,7 @@ permalink: /talks/
 
 ## Recent Talks
 
-- [The SSR under Quadratic Rough Heston](/assets/slides/QRH_SSR_Tandon_2026.pdf) (NYU Tandon, February 2026)
+- [Quadratic Rough Heston: SPX, VIX and the SSR](/assets/slides/QRH_SSR_Tandon_2026.pdf) (NYU Tandon, February 2026)
 
 - [The SSR under Quadratic Rough Heston](/assets/slides/QRH-SSR-CBOE-2025.pdf) (Chicago, October 2025)
 
