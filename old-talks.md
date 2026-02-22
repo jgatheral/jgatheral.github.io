@@ -33,7 +33,10 @@ permalink: /old-talks/
     </svg>
   </a>
 
-
+- [Rough volatility: An overview](/assets/slides/RoughVolatilityWintonLSE2017.pdf) (LSE London, April 2017)
+  <span style="float:right;">
+  <a href="https://www.youtube.com/watch?v=gW073Tnx7CE">▶</a>
+  </span>
 
 - https://www.youtube.com/watch?v=gW073Tnx7CE
 
