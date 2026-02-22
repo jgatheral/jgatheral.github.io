@@ -23,7 +23,7 @@ permalink: /old-talks/
 
 - [Rough volatility: An overview](/assets/slides/RoughVolatilityColumbia2018.pdf) (Columbia, January 2018)
 
-- [Rough volatility: An overview](/assets/slides/RoughVolatilityBarcelona2017.pdf) (Barcelona, May 2017) [![Talk video](https://img.youtube.com/vi/ABC123XYZ/hqdefault.jpg)](https://www.youtube.com/watch?v=gW073Tnx7CE)
+- [Rough volatility: An overview](/assets/slides/RoughVolatilityBarcelona2017.pdf) (Barcelona, May 2017) [![Talk video](https://img.youtube.com/vi/gW073Tnx7CE/hqdefault.jpg)](https://www.youtube.com/watch?v=gW073Tnx7CE)
 
 - https://www.youtube.com/watch?v=gW073Tnx7CE
 
