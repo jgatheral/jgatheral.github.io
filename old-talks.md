@@ -23,7 +23,7 @@ permalink: /old-talks/
 
 - [Rough volatility: An overview](/assets/slides/RoughVolatilityColumbia2018.pdf) (Columbia, January 2018)
 
-- 10 Years of Rough Volatility (Bologna, April 2024)
+- [10 Years of Rough Volatility](/assets/slidesRoughVolatilityWintonLSE2017.pdf) (Bologna, April 2024)
   <a href="https://www.youtube.com/watch?v=gW073Tnx7CE"
      target="_blank"
      aria-label="Watch on YouTube"
