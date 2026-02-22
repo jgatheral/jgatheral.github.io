@@ -19,7 +19,7 @@ permalink: /talks/
 ## Selected Other Talks
 
 
-- [The Complex Dynamics of Financial Price](/assets/slides/ComplexDynamics2021.pdf) (Collège de France, April 2021) <span style="float:right;">
+- [The Complex Dynamics of Financial Prices](/assets/slides/ComplexDynamics2021.pdf) (Collège de France, April 2021) <span style="float:right;">
   <a href="https://www.youtube.com/watch?v=F80eyEWdReg"> YouTube ▶</a>
   </span>
 
