@@ -22,20 +22,10 @@ permalink: /old-talks/
 - [Diamond trees, forests, and the exponentiation theorem](/assets/slides/DiamondsToronto2019.pdf) (Toronto, June 2019)
 
 
-- [Rough volatility: An overview](/assets/slidesRoughVolatilityWintonLSE2017.pdf) (LSE London, April 2017)
-  <a href="https://www.youtube.com/watch?v=gW073Tnx7CE"
-     target="_blank"
-     aria-label="Watch on YouTube"
-     style="float:right; margin-left:10px; text-decoration:none;">
-    <svg width="24" height="24" viewBox="0 0 24 24" fill="#cc0000" xmlns="http://www.w3.org/2000/svg">
-      <path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.5 12 3.5 12 3.5s-7.5 0-9.4.6A3 3 0 0 0 .5 6.2 31.5 31.5 0 0 0 0 12a31.5 31.5 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.1c1.9.6 9.4.6 9.4.6s7.5 0 9.4-.6a3 3 0 0 0 2.1-2.1A31.5 31.5 0 0 0 24 12a31.5 31.5 0 0 0-.5-5.8z"/>
-      <polygon points="9.5,15.5 15.5,12 9.5,8.5" fill="#ffffff"/>
-    </svg>
-  </a>
 
 - [Rough volatility: An overview](/assets/slides/RoughVolatilityWintonLSE2017.pdf) (LSE London, April 2017)
   <span style="float:right;">
-  <a href="https://www.youtube.com/watch?v=gW073Tnx7CE">▶</a>
+  <a href="https://www.youtube.com/watch?v=gW073Tnx7CE"> YouTube ▶</a>
   </span>
 
 - https://www.youtube.com/watch?v=gW073Tnx7CE
