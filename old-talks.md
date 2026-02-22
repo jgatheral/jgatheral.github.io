@@ -21,9 +21,8 @@ permalink: /old-talks/
 
 - [Diamond trees, forests, and the exponentiation theorem](/assets/slides/DiamondsToronto2019.pdf) (Toronto, June 2019)
 
-- [Rough volatility: An overview](/assets/slides/RoughVolatilityColumbia2018.pdf) (Columbia, January 2018)
 
-- [10 Years of Rough Volatility](/assets/slidesRoughVolatilityWintonLSE2017.pdf) (Bologna, April 2024)
+- [Rough volatility: An overview](/assets/slidesRoughVolatilityWintonLSE2017.pdf) (LSE London, April 2017)
   <a href="https://www.youtube.com/watch?v=gW073Tnx7CE"
      target="_blank"
      aria-label="Watch on YouTube"
