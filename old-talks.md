@@ -26,7 +26,7 @@ permalink: /old-talks/
 - [Rough volatility: An overview](/assets/slides/RoughVolatilityBarcelona2017.pdf) (Barcelona, May 2017) <a href="https://www.youtube.com/watch?v=gW073Tnx7CE" target="_blank">
   <img src="https://img.youtube.com/vi/gW073Tnx7CE/hqdefault.jpg"
        alt="Talk video"
-       style="max-width:32px; width:100%; border-radius:8px;">
+       style="max-width:64px; width:100%; border-radius:8px;">
 </a>
 
 - https://www.youtube.com/watch?v=gW073Tnx7CE
