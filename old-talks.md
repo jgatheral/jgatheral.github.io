@@ -21,7 +21,7 @@ permalink: /old-talks/
 
 - [Diamond trees, forests, and the exponentiation theorem](/assets/slides/DiamondsToronto2019.pdf) (Toronto, June 2019)
 
-- [Rough volatility](/asssets/slides/RoughVolatilityOsaka2016.pdf) (Osaka, January 2016)
+- [Rough volatility](/assets/slides/RoughVolatilityOsaka2016.pdf) (Osaka, January 2016)
 
 - [Random Matrix Theory and Correlation Estimation](/assets/slides/RandomMatrixBaruch2015.pdf) (Baruch College, February 2015)
     - Companion R-code: <a href="https://mfe.baruch.cuny.edu/wp-content/uploads/2021/02/RMT.R.zip">RMT.R</a>
