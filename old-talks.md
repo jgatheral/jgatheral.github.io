@@ -23,11 +23,6 @@ permalink: /old-talks/
 
 
 
-- [Rough volatility: An overview](/assets/slides/RoughVolatilityWintonLSE2017.pdf) (LSE London, April 2017)
-  <span style="float:right;">
-  <a href="https://www.youtube.com/watch?v=gW073Tnx7CE"> YouTube ▶</a>
-  </span>
-
 - [Random Matrix Theory and Correlation Estimation](/assets/slides/RandomMatrixBaruch2015.pdf) (Baruch College, February 2015)
     - Companion R-code: <a href="https://mfe.baruch.cuny.edu/wp-content/uploads/2021/02/RMT.R.zip">RMT.R</a>
 
