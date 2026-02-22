@@ -19,8 +19,8 @@ permalink: /talks/
 ## Selected Other Talks
 
 
-- [The Complex Dynamics of Financial Price](/assets/slides/ComplexDynamics2021.pdf) (Collège de France, April 2021)
-    - [A link to the video](https://www.youtube.com/watch?v=F80eyEWdReg&t=1938s)
+- [The Complex Dynamics of Financial Price](/assets/slides/ComplexDynamics2021.pdf) (Collège de France, April 2021) [YouTube video](https://www.youtube.com/watch?v=F80eyEWdReg&t=1938s)
+  
     
 
 - [Diamond trees and the forest expansion](/assets/slides/DiamondsBBQ2021Corrected.pdf) (Bloomberg NY, January 2021)
