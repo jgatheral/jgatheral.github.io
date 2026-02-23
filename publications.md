@@ -28,6 +28,10 @@ A complete list is available on <a href="https://scholar.google.com/citations?us
 
 - [Arbitrage-free SVI volatility surfaces](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2033323) *Quantitative Finance* **14**(1) 59-71 (2014)
 
+- [No-Dynamic-Arbitrage and Market Impact](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1292353) *Quantitative Finance* **10**(7) 749-759 (2010)
+
+- [Zero-Intelligence Realized Variance Estimation](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=970358)*Finance and Stochastics* **14**(2) 249-283 (2010)
+
 
 
 
