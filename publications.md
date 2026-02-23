@@ -7,7 +7,7 @@ permalink: /publications/
 ## Working Papers
 
 - [The SSR under Quadratic Rough Heston](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5239929)  <span style="float:right;">
-  <a href="https://www.youtube.com/watch?v=F80eyEWdReg"> GitHub repository</a>
+  <a href="https://www.youtube.com/watch?v=F80eyEWdReg](https://github.com/jgatheral/QuadraticRoughHeston"> GitHub repository</a>
   </span>
 
 
