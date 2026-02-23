@@ -4,13 +4,16 @@ title: Publications
 permalink: /publications/
 ---
 
-## Selected Papers
+## Working Papers
+
+- [The SSR under Quadratic Rough Heston](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5239929)
+
+
+## Selected Published Papers
 
 - [Computing the SSR](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872776) *Quantitative Finance* **25**(5) (2025)
 
 - [A Generalization of the Rational Rough Heston Approximation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4601600) *Quantitative Finance* **24**(2) (2024)
-
-- 
 
 - [Efficient simulation of affine forward variance models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3876680) *risk.net* February (2022)
 
