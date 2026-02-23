@@ -22,3 +22,62 @@ img { border-radius: 12px; }
 .site-nav .page-link {
   margin-left: 0.75rem;
 }
+
+/* --- Books page: restrained, aligned, responsive --- */
+.book-entry{
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+  margin: 1.25rem 0 2.5rem 0;
+}
+
+.book-cover{
+  flex: 0 0 auto;
+}
+
+.book-cover img{
+  width: 170px;
+  border-radius: 6px;
+  display: block;
+}
+
+.book-text{
+  min-width: 0;
+}
+
+.book-cite{
+  margin: 0 0 0.35rem 0;
+}
+
+.book-title{
+  margin: 0 0 0.35rem 0;
+}
+
+.book-pub{
+  margin: 0.1rem 0 0 0;
+}
+
+.book-sep{
+  padding: 0 0.35rem;
+  color: #666;
+}
+
+.book-note{
+  color: #666;
+  margin-left: 0.25rem;
+  white-space: nowrap;
+}
+
+/* Mobile: stack cover above text */
+@media (max-width: 640px){
+  .book-entry{
+    flex-direction: column;
+    gap: 1rem;
+  }
+  .book-cover img{
+    width: 150px;
+  }
+  .book-note{
+    white-space: normal;
+  }
+}
