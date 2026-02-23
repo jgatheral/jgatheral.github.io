@@ -4,7 +4,7 @@ title: Talks
 permalink: /talks/
 ---
 
-## Recent Talks
+## Recent Lectures
 
 - [Quadratic Rough Heston: SPX, VIX and the SSR](/assets/slides/QRH_SSR_Tandon_2026.pdf) (NYU Tandon, February 2026)
 
@@ -18,7 +18,7 @@ permalink: /talks/
 
 ----
 
-## Selected Other Talks
+## Selected Lectures
 
 
 - [The Complex Dynamics of Financial Prices](/assets/slides/ComplexDynamics2021.pdf) (Collège de France, April 2021) <span style="float:right;">
@@ -54,7 +54,7 @@ permalink: /talks/
 
 ----
 
-## Assorted Other Talks
+## Further lectures
 
-- [Other talks](/old-talks/)
+- [Further lectures](/further-talks/)
 
