@@ -18,9 +18,7 @@ A complete list is available on <a href="https://scholar.google.com/citations?us
 
 - [Forests, cumulants, martingales](https://arxiv.org/abs/2002.01448) *Annals of Probability* **50**(4) 1418-1445 (2022)
 
-â€¢ (with<a href="https://quantreg.com/people/paul-jusselin/"> Paul Jusselin,Â and </a><a href="https://quantreg.com/people/mathieurosenbaum/">Mathieu Rosenbaum</a><a href="https://quantreg.com/people/paul-jusselin/">) </a><a class="gsc_a_at" href="https://arxiv.org/abs/2001.01789">The quadratic rough Heston model and the joint S&amp;P 500/VIX smile calibration problem.</a>
-
-<a href="https://www.risk.net">risk.net</a>, May (2020).
+- [The quadratic rough Heston model and the joint S&amp;P 500/VIX smile calibration problem](https://arxiv.org/abs/2001.01789) *risk.net* May (2020)
 
 â€¢ (with<a href="https://www.linkedin.com/in/omar-el-euch-2a699746/"> Omar El Euch,Â </a><a href="https://mfe.baruch.cuny.edu/RadosRadoicic/">RadoÅ¡ RadoiÄ iÄ‡</a>Â and <a href="http://www.crest.fr/ses.php?user=3046">Mathieu Rosenbaum</a>) <a class="gsc_a_at" href="https://arxiv.org/abs/1809.02098">The Zumbach effect under rough Heston.</a>
 
