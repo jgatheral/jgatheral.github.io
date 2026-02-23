@@ -13,7 +13,7 @@ He is Editor-in-Chief of *Quantitative Finance*.
 
 ## Industry Experience
 
-Prior to joining academia, he worked in quantitative finance in New York and London, focusing on volatility modeling, derivatives pricing, and risk management. His industry experience continues to inform his research and teaching.
+Prior to joining the faculty of Baruch College, Jim was involved in all of the major derivative product areas as bookrunner, risk manager, and quantitative analyst in London, Tokyo and New York, in a career in the financial industry that spanned over 27 years.   His industry experience continues to inform his research and teaching.
 
 ## Distinctions
 
