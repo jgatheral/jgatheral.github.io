@@ -6,13 +6,13 @@ markdown: kramdown
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  
 
-header_pages:
+  header_pages:
   - about.md
-  - research.md
   - publications.md
+  - books.md
   - talks.md
-  - teaching.md
-  - contact.md
+  - workshops.md
 
 
