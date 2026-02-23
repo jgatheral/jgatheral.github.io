@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact
-permalink: /contact/
+title: Workshops
+permalink: /workshops/
 ---
 
 Email: jim.gatheral@baruch.cuny.edu  
