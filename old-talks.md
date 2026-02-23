@@ -46,18 +46,9 @@ permalink: /old-talks/
 
 - [Price manipulation in models of the order book](/assets/slides/Buzios2009.pdf) (Búzios, November 2009)
 
-- [Random Matrix Theory and Covariance Estimation](/assets/slides/RandomMatrixCovariance2007.pdf) (NYU, October 2008)
-
-
-- [urther Developments in Volatility Derivatives Pricing](/assets/slides/FurtherVolDerivatives2008.pdf) (Paris, May 2008)
-
 - [Developments in Volatility Derivatives Pricing](/assets/slides/Der2007.pdf) (Paris, May 2007)
 
-- [Real-time Volatility Estimation Under Zero Intelligence](/assets/slides/Amsterdam2006.pdf) (Amsterdam, June 2006)
-
 - [Valuation of volatility derivatives](/assets/slides/Vol2006.pdf) (NYU Stern, February 2006)
-
-- [Modeling the Implied Volatility Surface](/assets/slides/barcelona2003.pdf) (Barcelona, May 2003)
 
 - [Rational Shapes of the Volatility Surface](/assets/slides/RationalShape.pdf) (Boston, June 2000)
 
