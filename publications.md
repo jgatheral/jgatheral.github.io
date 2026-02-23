@@ -6,12 +6,6 @@ permalink: /publications/
 
 ## Selected Papers
 
-- *Volatility is Rough*, Quantitative Finance (2018).
-- *Pricing Under Rough Volatility*, Quantitative Finance (2016).
-- *No-Dynamic-Arbitrage and Market Impact*, Quantitative Finance (2010).
-
-A complete list is available on <a href="https://scholar.google.com/citations?user=1XwLUrcAAAAJ&hl=en&oi=ao">Google Scholar</a>.
-
 - [Efficient simulation of affine forward variance models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3876680) *risk.net* February (2022)
 
 - [A rough SABR formula](https://www.aimsciences.org/article/doi/10.3934/fmf.2021003) *Frontiers of Mathematical Finance* **1**(1), 81-97 (2022)
@@ -30,7 +24,9 @@ A complete list is available on <a href="https://scholar.google.com/citations?us
 
 - [No-Dynamic-Arbitrage and Market Impact](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1292353) *Quantitative Finance* **10**(7) 749-759 (2010)
 
-- [Zero-Intelligence Realized Variance Estimation](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=970358)*Finance and Stochastics* **14**(2) 249-283 (2010)
+- [Zero-Intelligence Realized Variance Estimation](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=970358) *Finance and Stochastics* **14**(2) 249-283 (2010)
+
+- A complete list is available on <a href="https://scholar.google.com/citations?user=1XwLUrcAAAAJ&hl=en&oi=ao">Google Scholar</a>.
 
 
 
