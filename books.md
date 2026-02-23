@@ -16,7 +16,7 @@ permalink: /books/
 
   Gatheral, J. (2006).  
   *The Volatility Surface: A Practitioner's Guide*.  
-  John Wiley & Sons.
+  [John Wiley & Sons](https://www.wiley.com/en-us/The+Volatility+Surface%3A+A+Practitioner%27s+Guide-p-9780471792512" target="_blank)
 
   <a href="https://www.wiley.com/en-us/The+Volatility+Surface%3A+A+Practitioner%27s+Guide-p-9780471792512" target="_blank">
   Publisher page
