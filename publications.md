@@ -14,7 +14,7 @@ A complete list is available on <a href="https://scholar.google.com/citations?us
 
 - [Efficient simulation of affine forward variance models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3876680) (risk.net, February (2022).
 
--[A rough SABR formula](https://www.aimsciences.org/article/doi/10.3934/fmf.2021003) (Frontiers of Mathematical Finance</a>, **1**(1), 81-97 (2022)
+- [A rough SABR formula](https://www.aimsciences.org/article/doi/10.3934/fmf.2021003) (Frontiers of Mathematical Finance</a>, **1**(1), 81-97 (2022)
 
 â€¢ (with<a href="http://www.sigmath.es.osaka-u.ac.jp/~fukasawa/"> Masaaki Fukasawa </a>) <a href="https://www.aimsciences.org/article/doi/10.3934/fmf.2021003"><em>.</em></a>
 
