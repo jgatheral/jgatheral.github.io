@@ -20,7 +20,7 @@ A complete list is available on <a href="https://scholar.google.com/citations?us
 
 - [The quadratic rough Heston model and the joint S&amp;P 500/VIX smile calibration problem](https://arxiv.org/abs/2001.01789) *risk.net* May (2020)
 
-- [Affine Forward Variance Models](href="http://link.springer.com/article/10.1007/s00780-019-00392-5) *Finance and Stochastics* **23**(3) 501-533 (2019)
+- [Affine Forward Variance Models](http://link.springer.com/article/10.1007/s00780-019-00392-5) *Finance and Stochastics* **23**(3) 501-533 (2019)
 
 
 
