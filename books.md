@@ -30,7 +30,7 @@ permalink: /books/
 
 <div style="display:flex; gap:2rem; align-items:flex-start;">
 
-  <img src="/assets/img/RoughVol.jpg"
+  <img src="/assets/images/RoughVol.jpg"
        alt="Rough Volatility"
        style="width:170px; border-radius:6px;">
 
