@@ -1,10 +1,7 @@
 ---
 layout: page
-
 permalink: /
 ---
-
-
 
 <img src="JimG2-scaled.jpg"
      alt="Jim Gatheral"
@@ -25,6 +22,4 @@ Email: [jim.gatheral@baruch.cuny.edu](mailto:jim.gatheral@baruch.cuny.edu)
 
 ---
 
-Jim Gatheral joined the [Financial Engineering MS Program](https://mfe.baruch.cuny.edu/) in 2010 as a tenured full professor. Since 2013, he has been Presidential Professor at Baruch College.
-
-**Research interests:** volatility modeling, rough volatility, market impact, and optimal execution.
+My research concerns stochastic volatility, with an emphasis on rough volatility and Volterra-type models, as well as volatility surface modeling and market microstructure.
