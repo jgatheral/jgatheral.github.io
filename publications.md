@@ -12,17 +12,11 @@ permalink: /publications/
 
 A complete list is available on <a href="https://scholar.google.com/citations?user=1XwLUrcAAAAJ&hl=en&oi=ao">Google Scholar</a>.
 
-- [Efficient simulation of affine forward variance models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3876680) (risk.net, February (2022).
+- [Efficient simulation of affine forward variance models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3876680) *risk.net* February (2022)
 
-- [A rough SABR formula](https://www.aimsciences.org/article/doi/10.3934/fmf.2021003) (Frontiers of Mathematical Finance</a>, **1**(1), 81-97 (2022)
+- [A rough SABR formula](https://www.aimsciences.org/article/doi/10.3934/fmf.2021003) *Frontiers of Mathematical Finance* **1**(1), 81-97 (2022)
 
-â€¢ (with<a href="http://www.sigmath.es.osaka-u.ac.jp/~fukasawa/"> Masaaki Fukasawa </a>) <a href="https://www.aimsciences.org/article/doi/10.3934/fmf.2021003"><em>.</em></a>
-
-<a href="https://www.aimsciences.org/journal/A0000-0007">Frontiers of Mathematical Finance</a>, <strong>1</strong>(1), 81-97 (2022).
-
-â€¢ (with<a href="http://page.math.tu-berlin.de/~friz/"> Peter Friz</a> and <a href="http://www.baruch.cuny.edu/wsas/academics/math/rradoicic.htm">RadoÅ¡ RadoiÄ iÄ‡</a>) <a href="https://arxiv.org/abs/2002.01448"><em>Forests, cumulants, martingales.</em></a>
-
-<a href="https://imstat.org/journals-and-publications/annals-of-probability">Annals of Probability</a>, <strong>50</strong>(4) 1418-1445 (2022).
+- [Forests, cumulants, martingales](https://arxiv.org/abs/2002.01448) *Annals of Probability* **50**(4) 1418-1445 (2022)
 
 â€¢ (with<a href="https://quantreg.com/people/paul-jusselin/"> Paul Jusselin,Â and </a><a href="https://quantreg.com/people/mathieurosenbaum/">Mathieu Rosenbaum</a><a href="https://quantreg.com/people/paul-jusselin/">) </a><a class="gsc_a_at" href="https://arxiv.org/abs/2001.01789">The quadratic rough Heston model and the joint S&amp;P 500/VIX smile calibration problem.</a>
 
