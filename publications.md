@@ -26,7 +26,9 @@ permalink: /publications/
 
 - [Zero-Intelligence Realized Variance Estimation](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=970358) *Finance and Stochastics* **14**(2) 249-283 (2010)
 
-- A complete list is available on <a href="https://scholar.google.com/citations?user=1XwLUrcAAAAJ&hl=en&oi=ao">Google Scholar</a>.
+
+
+  A complete list is available on <a href="https://scholar.google.com/citations?user=1XwLUrcAAAAJ&hl=en&oi=ao">Google Scholar</a>.
 
 
 
