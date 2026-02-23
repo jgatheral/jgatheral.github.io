@@ -7,7 +7,7 @@ permalink: /publications/
 ## Working Papers
 
 - [The SSR under Quadratic Rough Heston](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5239929)  <span style="float:right;">
-  <a href="https://www.youtube.com/watch?v=F80eyEWdReg](https://github.com/jgatheral/QuadraticRoughHeston"> GitHub repository</a>
+  <a href="https://github.com/jgatheral/QuadraticRoughHeston"> GitHub repository</a>
   </span>
 
 
@@ -15,7 +15,9 @@ permalink: /publications/
 
 - [Computing the SSR](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872776) *Quantitative Finance* **25**(5) (2025)
 
-- [A Generalization of the Rational Rough Heston Approximation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4601600) *Quantitative Finance* **24**(2) (2024)
+- [A Generalization of the Rational Rough Heston Approximation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4601600) *Quantitative Finance* **24**(2) (2024)    <span style="float:right;">
+  <a href="https://github.com/jgatheral/RationalRoughHeston"> GitHub repository</a>
+  </span>
 
 - [Efficient simulation of affine forward variance models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3876680) *risk.net* February (2022)
 
