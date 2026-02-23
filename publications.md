@@ -6,6 +6,8 @@ permalink: /publications/
 
 ## Selected Papers
 
+-[A Generalization of the Rational Rough Heston Approximation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4601600) *Quantitative Finance* **24**(2) (2024)
+
 - [Efficient simulation of affine forward variance models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3876680) *risk.net* February (2022)
 
 - [A rough SABR formula](https://www.aimsciences.org/article/doi/10.3934/fmf.2021003) *Frontiers of Mathematical Finance* **1**(1), 81-97 (2022)
