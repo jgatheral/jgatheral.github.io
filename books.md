@@ -40,7 +40,7 @@ permalink: /books/
   *Rough Volatility*.  
   [SIAM](https://epubs.siam.org/action/doSearch?AllField=rough+volatility&pt=book&enableConditionalBoosting=true&PubType=105)
 
-
+[Book description](https://www.siam.org/publications/siam-news/articles/rough-volatility-in-financial-mathematics/)
 
   </div>
 
