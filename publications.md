@@ -19,7 +19,9 @@ permalink: /publications/
   <a href="https://github.com/jgatheral/RationalRoughHeston"> GitHub repository</a>
   </span>
 
-- [Efficient simulation of affine forward variance models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3876680) *risk.net* February (2022)
+- [Efficient simulation of affine forward variance models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3876680) *risk.net* February (2022)  <span style="float:right;">
+  <a href="https://github.com/jgatheral/AFVsimulationCode"> GitHub repository</a>
+  </span>
 
 - [A rough SABR formula](https://www.aimsciences.org/article/doi/10.3934/fmf.2021003) *Frontiers of Mathematical Finance* **1**(1), 81-97 (2022)
 
