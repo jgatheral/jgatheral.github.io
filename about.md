@@ -17,12 +17,11 @@ Prior to joining academia, he worked in quantitative finance in New York and Lon
 
 ## Distinctions
 
-- Quant of the Year, *Risk Magazine*, 2023
+- Quant of the Year, *risk.net*, 2021
 
 ## Visiting Positions
 
-- Visiting Professor, [Institution], [Year]
-- Visiting Professor, [Institution], [Year]
+- DFG Mercator Visiting Professorship, Technische Universität Berlin, 2026.
 
 ## Education
 
