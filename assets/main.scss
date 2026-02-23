@@ -3,7 +3,9 @@
 @import "minima";
 
 /* Cambridge-seminar minimalism */
-.wrapper { max-width: 44rem; }
+ .wrapper {
+  max-width: clamp(44rem, 70vw, 60rem);
+}
 
 body {
   font-size: 17px;
