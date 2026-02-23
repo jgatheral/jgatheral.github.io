@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## Working Papers
 
-- [The SSR under Quadratic Rough Heston](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5239929)  <span style="float:right;">
+- [The SSR under Quadratic Rough Heston](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5239929) (May 2025) <span style="float:right;">
   <a href="https://github.com/jgatheral/QuadraticRoughHeston"> GitHub repository</a>
   </span>
 
