@@ -24,9 +24,7 @@ A complete list is available on <a href="https://scholar.google.com/citations?us
 
 - [Pricing Under Rough Volatility](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2554754) *Quantitative Finance* **16**(6) 887-904 (2016)
 
-â€¢ (with<a href="http://www.cmapx.polytechnique.fr/~tjaisson/"> Thibault Jaisson</a> and <a href="https://quantreg.com/people/mathieurosenbaum/">Mathieu Rosenbaum</a>) <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2509457"><em>Volatility is Rough.</em></a>
-
-<a href="http://www.tandf.co.uk/journals/rquf">Quantitative Finance</a> <strong>18</strong>(6), 933-949 (2018).
+- [Volatility is Rough](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2509457) *Quantitative Finance* **18**(6) 933-949 (2018)
 
 â€¢ (withÂ <a href="http://mfe.baruch.cuny.edu/tai-ho-wang-2/">Tai-Ho Wang</a>)Â <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2457618"><em>Implied volatility from local volatility: A path integral approach.</em></a>
 
