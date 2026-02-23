@@ -29,13 +29,11 @@ permalink: /books/
        alt="Rough Volatility"
        style="width:170px; border-radius:6px;">
 
-  <div>
+  </div>
 
   Edited by Christian Bayer, Peter K. Friz, Masaaki Fukasawa, Jim Gatheral, Mathieu Rosenbaum, Antoine Jacquier  *Rough Volatility*.  
   [SIAM](https://epubs.siam.org/action/doSearch?AllField=rough+volatility&pt=book&enableConditionalBoosting=true&PubType=105)
 
 [Book description](https://www.siam.org/publications/siam-news/articles/rough-volatility-in-financial-mathematics/) from SIAM News (July 2025).
 
-  </div>
-
-</div>
+ 
