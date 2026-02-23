@@ -8,7 +8,7 @@ permalink: /books/
 
 <div style="display:flex; gap:2rem; align-items:flex-start; margin-bottom:2.5rem;">
 
-  <img src="/assets/img/VolSurface.jpg"
+  <img src="/assets/images/VolSurface.jpg"
        alt="The Volatility Surface"
        style="width:170px; border-radius:6px;">
 
