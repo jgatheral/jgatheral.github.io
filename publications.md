@@ -37,7 +37,8 @@ permalink: /publications/
 
 
 
-  A complete list is available on <a href="https://scholar.google.com/citations?user=1XwLUrcAAAAJ&hl=en&oi=ao">Google Scholar</a>.
+
+A complete list is available on <a href="https://scholar.google.com/citations?user=1XwLUrcAAAAJ&hl=en&oi=ao">Google Scholar</a>.
 
 
 
