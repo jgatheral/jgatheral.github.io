@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Jim Gatheral is Presidential Professor of Mathematics at Baruch College, City University of New York.  
-He joined the Financial Engineering MS Program in 2010 and has served as Presidential Professor since 2013.
+Jim Gatheral is Presidential Professor of Mathematics at Baruch College, City University of New York.  He joined the Financial Engineering MS Program in 2010 and has served as Presidential Professor since 2013.
 
 His research concerns stochastic volatility, with an emphasis on rough volatility and Volterra-type models, as well as volatility surface modeling and market microstructure.
 
