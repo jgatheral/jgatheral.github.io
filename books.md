@@ -12,17 +12,12 @@ permalink: /books/
        alt="The Volatility Surface"
        style="width:170px; border-radius:6px;">
 
-  <div>
+  </div>
 
   Gatheral, J. (2006).  
   *The Volatility Surface: A Practitioner's Guide*.  
   [John Wiley & Sons](https://www.wiley.com/en-us/The+Volatility+Surface%3A+A+Practitioner%27s+Guide-p-9780471792512)
 
-
-
-  </div>
-
-</div>
 
 ---
 
