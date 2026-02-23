@@ -18,9 +18,7 @@ permalink: /books/
   *The Volatility Surface: A Practitioner's Guide*.  
   [John Wiley & Sons](https://www.wiley.com/en-us/The+Volatility+Surface%3A+A+Practitioner%27s+Guide-p-9780471792512)
 
-  <a href="https://www.wiley.com/en-us/The+Volatility+Surface%3A+A+Practitioner%27s+Guide-p-9780471792512" target="_blank">
-  Publisher page
-  </a>
+
 
   </div>
 
@@ -32,19 +30,17 @@ permalink: /books/
 
 <div style="display:flex; gap:2rem; align-items:flex-start;">
 
-  <img src="/assets/img/rough_volatility.jpg"
+  <img src="/assets/img/RoughVol.jpg"
        alt="Rough Volatility"
        style="width:170px; border-radius:6px;">
 
   <div>
 
-  Gatheral, J., Jaisson, T., Rosenbaum, M. (2024).  
+  Christian Bayer, Peter K. Friz, Masaaki Fukasawa, Jim Gatheral, Mathieu Rosenbaum, Antoine Jacquier 
   *Rough Volatility*.  
-  Cambridge University Press.
+  [SIAM](https://epubs.siam.org/action/doSearch?AllField=rough+volatility&pt=book&enableConditionalBoosting=true&PubType=105)
 
-  <a href="https://www.cambridge.org/" target="_blank">
-  Publisher page
-  </a>
+
 
   </div>
 
