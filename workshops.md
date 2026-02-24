@@ -9,6 +9,10 @@ permalink: /workshops/
 - [Part I Econometrics and Forecasting](https://www.youtube.com/watch?v=YxVG4xU9pws)
 - [Part II Pricing and model calibration](https://www.youtube.com/watch?v=a7iJlDa-eZ8)
 
+- <span style="float:right;">
+  <a href="[https://www.youtube.com/watch?v=F80eyEWdReg](https://www.youtube.com/watch?v=a7iJlDa-eZ8)"> YouTube ▶</a>
+  </span>
+
 ## QuantMinds 2025 Rough Volatility Workshop lectures
 
 All code necessary to run the Jupyter notebooks may be found here: https://github.com/jgatheral/RoughVolatilityWorkshop2025.
