@@ -19,5 +19,5 @@ All code necessary to run the Jupyter notebooks may be found here: <a href="http
 
 - [Lecture 1: Econometrics](/assets/slides/QM2025-1%20Econometrics.pdf)
 - [Lecture 2: Rough volatility models ](/assets/slides/QM2025-2%20Rough%20volatility%20models.pdf)
-- [Lecture 3: Affine models](/assets/slides/Affine%20models.pdf)
-- [Lecture 4: Quadratic rough Heston](/assets/slides/Quadratic%20Rough%20Heston.pdf)
+- [Lecture 3: Affine models](/assets/slides/AQM2025-3%20ffine%20models.pdf)
+- [Lecture 4: Quadratic rough Heston](/assets/slides/QM2025-4%20Quadratic%20Rough%20Heston.pdf)
