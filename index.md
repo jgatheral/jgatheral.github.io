@@ -5,7 +5,7 @@ permalink: /
 
 
 
-<img src="/assets/images/DSC_0194-4.jpg"
+<img src="/assets/images/DSC_0194-5.jpg"
      alt="Jim Gatheral"
      width="180"
      style="border-radius:12px;">
