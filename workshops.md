@@ -4,6 +4,11 @@ title: Workshops
 permalink: /workshops/
 ---
 
+## Research in Options 2018 - Rough Volatility Minicourse
+
+- [Part I Econometrics and Forecasting](https://www.youtube.com/watch?v=YxVG4xU9pws)
+- [Part II Pricing and model calibration](https://www.youtube.com/watch?v=a7iJlDa-eZ8)
+
 ## QuantMinds 2025 Rough Volatility Workshop lectures
 
 All code necessary to run the Jupyter notebooks may be found here: https://github.com/jgatheral/RoughVolatilityWorkshop2025.
