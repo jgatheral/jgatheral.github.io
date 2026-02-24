@@ -8,7 +8,7 @@ permalink: /
      width="180"
      style="border-radius:12px;">
 
-<img src="/assets/images/DSC_0194-3.jpg"
+<img src="/assets/images/DSC_0194-4.jpg"
      alt="Jim Gatheral"
      width="180"
      style="border-radius:12px;">
