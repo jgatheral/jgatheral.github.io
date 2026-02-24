@@ -10,7 +10,6 @@ permalink: /workshops/
 - [Part II Pricing and model calibration](https://www.youtube.com/watch?v=a7iJlDa-eZ8) <span style="float:right;">
   <a href="https://www.youtube.com/watch?v=a7iJlDa-eZ8"> YouTube ▶</a>
 
-- 
 
 ## QuantMinds 2025 Rough Volatility Workshop lectures
 
