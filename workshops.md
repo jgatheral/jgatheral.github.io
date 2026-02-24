@@ -6,5 +6,6 @@ permalink: /workshops/
 
 ## QuantMinds 2025 Rough Volatility Workshop lectures
 - [Lecture 1: Econometrics](https://github.com/jgatheral/RoughVolatilityWorkshop2025/blob/main/QM2025-1%20Econometrics.ipynb)
--  [Lecture 2: Rough volatility models ](https://github.com/jgatheral/RoughVolatilityWorkshop2025/blob/main/QM2025-2%20Rough%20volatility%20models.ipynb)
-
+- [Lecture 2: Rough volatility models ](https://github.com/jgatheral/RoughVolatilityWorkshop2025/blob/main/QM2025-2%20Rough%20volatility%20models.ipynb)
+- [Lecture 3: Affine models](https://github.com/jgatheral/RoughVolatilityWorkshop2025/blob/main/QM2025-3%20Affine%20models.ipynb)
+- [Lecture 4: Quadratic rough Heston](github.com/jgatheral/RoughVolatilityWorkshop2025/blob/main/QM2025-4%20Quadratic%20Rough%20Heston.ipynb)
