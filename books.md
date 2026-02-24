@@ -12,7 +12,7 @@ permalink: /books/
   </div>
 
   <div class="book-text">
-    <div class="book-cite">Gatheral, J. (2006).</div>
+    <div class="book-cite">Jim Gatheral (2006).</div>
     <div class="book-title"><em>The Volatility Surface: A Practitioner's Guide</em>.</div>
     <div class="book-pub">
       <a href="https://www.wiley.com/en-us/The+Volatility+Surface%3A+A+Practitioner%27s+Guide-p-9780471792512">John Wiley &amp; Sons</a>
