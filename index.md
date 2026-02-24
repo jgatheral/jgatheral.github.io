@@ -3,10 +3,7 @@ layout: page
 permalink: /
 ---
 
-<img src="/assets/images/JimG2-scaled.jpg"
-     alt="Jim Gatheral"
-     width="180"
-     style="border-radius:12px;">
+
 
 <img src="/assets/images/DSC_0194-4.jpg"
      alt="Jim Gatheral"
