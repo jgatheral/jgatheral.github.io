@@ -16,7 +16,7 @@ Prior to joining the faculty of Baruch College, he worked in all major derivativ
 
 ## Distinctions
 
-- Quant of the Year, *risk.net*, 2021
+- Quant of the Year, *risk.net*, 2021.
 
 ## Visiting Positions
 
