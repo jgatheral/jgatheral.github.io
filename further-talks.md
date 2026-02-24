@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Assorted Talks
-permalink: /old-talks/
+title: Further Talks
+permalink: /further-talks/
 ---
 
 
