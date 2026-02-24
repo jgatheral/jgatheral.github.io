@@ -8,6 +8,11 @@ permalink: /
      width="180"
      style="border-radius:12px;">
 
+<img src="/assets/images/DSC_0194-3.jpg"
+     alt="Jim Gatheral"
+     width="180"
+     style="border-radius:12px;">
+
 **Presidential Professor**  
 [Baruch College](https://www.baruch.cuny.edu/)  
 [City University of New York (CUNY)](https://www.cuny.edu/)
