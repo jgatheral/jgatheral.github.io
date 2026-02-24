@@ -8,7 +8,7 @@ Jim Gatheral is Presidential Professor of Mathematics at Baruch College, City Un
 
 His research concerns stochastic volatility, with an emphasis on rough volatility and Volterra-type models, as well as volatility surface modeling and market microstructure.
 
-He is Editor-in-Chief of [*Quantitative Finance*](https://www.tandfonline.com/journals/rquf20).
+He is Editor-in-Chief of [*Quantitative Finance*](https://www.tandfonline.com/toc/rquf20/26/1).
 
 ## Industry Experience
 
