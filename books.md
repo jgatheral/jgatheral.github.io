@@ -31,7 +31,7 @@ permalink: /books/
 
   <div class="book-text">
     <div class="book-cite">
-      Edited by Christian Bayer, Peter K. Friz, Masaaki Fukasawa, Jim Gatheral, Mathieu Rosenbaum, Antoine Jacquier.
+      Edited by Christian Bayer, Peter K. Friz, Masaaki Fukasawa, Jim Gatheral, Mathieu Rosenbaum, Antoine Jacquier (2023).
     </div>
     <div class="book-title"><em>Rough Volatility</em>.</div>
     <div class="book-pub">
