@@ -8,8 +8,8 @@ permalink: /workshops/
 
 A conference honoring Bruno Dupire’s 60th Birthday. Búzios, Rio de Janeiro, 2018.
 
-- Part I: Econometrics and Forecasting <span style="float:right;"> <a href="https://www.youtube.com/watch?v=YxVG4xU9pws"> YouTube ▶</a>
-- Part II:  Pricing and model calibration <span style="float:right;">
+- Part I: Econometrics and Forecasting <span style="float:center;"> <a href="https://www.youtube.com/watch?v=YxVG4xU9pws"> YouTube ▶</a>
+- Part II:  Pricing and model calibration <span style="float:center;">
   <a href="https://www.youtube.com/watch?v=a7iJlDa-eZ8"> YouTube ▶</a>
 
 
