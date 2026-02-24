@@ -1,5 +1,7 @@
-title: "Jim Gatheral"
-description: "Research on rough volatility, stochastic volatility, volatility surfaces, market impact, and optimal execution."
+title: Jim Gatheral
+description: Presidential Professor of Mathematics at Baruch College. Research in rough volatility, stochastic volatility, volatility surface modeling, and market microstructure.
+url: https://jgatheral.github.io
+
 theme: minima
 markdown: kramdown
 
