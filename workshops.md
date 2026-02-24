@@ -6,7 +6,7 @@ permalink: /workshops/
 
 ## Research in Options 2018 - Rough Volatility Minicourse
 
-- [Part I Econometrics and Forecasting] <span style="float:right;"> <a href="https://www.youtube.com/watch?v=F80eyEWdReg"> YouTube ▶</a>
+- [Part I Econometrics and Forecasting] <span style="float:right;"> <a href="https://www.youtube.com/watch?v=YxVG4xU9pws"> YouTube ▶</a>
 - [Part II Pricing and model calibration](https://www.youtube.com/watch?v=a7iJlDa-eZ8) <span style="float:right;">
   <a href="https://www.youtube.com/watch?v=a7iJlDa-eZ8"> YouTube ▶</a>
 
