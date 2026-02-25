@@ -15,7 +15,7 @@ A conference honoring Bruno Dupire’s 60th Birthday. Búzios, Rio de Janeiro, 2
 
 ## QuantMinds 2025 Rough Volatility Workshop lectures
 
-Jupyter notebooks and code may be found here: <a href="https://github.com/jgatheral/RoughVolatilityWorkshop2025">GitHub R repository</a> and here: <a href="https://github.com/fbourgey/RoughVolatilityWorkshop2025">GitHub Python repository</a>.
+Jupyter notebooks and code may be found here: <a href="https://github.com/jgatheral/RoughVolatilityWorkshop2025">R implementation</a> and here: <a href="https://github.com/fbourgey/RoughVolatilityWorkshop2025">GitHub Python implementation</a>.
 
 
 
