@@ -23,3 +23,6 @@ Jupyter notebooks and code may be found here: <a href="https://github.com/jgathe
 - [Lecture 2: Rough volatility models ](/assets/slides/QM2025-2%20Rough%20volatility%20models.pdf)
 - [Lecture 3: Affine models](/assets/slides/QM2025-3%20Affine%20models.pdf)
 - [Lecture 4: Quadratic rough Heston](/assets/slides/QM2025-4%20Quadratic%20Rough%20Heston.pdf)
+---
+
+All Python implementations by Florian Bourgey.
