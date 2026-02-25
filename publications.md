@@ -9,7 +9,7 @@ permalink: /publications/
 - [The SSR under Quadratic Rough Heston](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5239929) (May 2025) <span style="float:right;">
   <a href="https://github.com/jgatheral/QuadraticRoughHeston">R implementation</a>
   </span>
-- 
+  
 
 ## Selected Published Papers
 
