@@ -14,7 +14,7 @@ permalink: /publications/
 ## Selected Published Papers
 
 - [Computing the SSR](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872776) *Quantitative Finance* **25**(5) (2025)  <span style="float:right;">
-  <a href="https://github.com/fbourgey/computing-the-ssr"> Python implementation (Florian Bourgey)</a>
+  <a href="https://github.com/fbourgey/computing-the-ssr"> Python implementation</a>
   </span>
 
 - [A Generalization of the Rational Rough Heston Approximation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4601600) *Quantitative Finance* **24**(2) (2024)    <span style="float:right;">
