@@ -8,7 +8,8 @@ permalink: /publications/
 
 - [Magic Strikes for Variance and Gamma Contracts, and other Attainable Claims](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7533078) (September 2026)
 
-- [Demystifying the Bergomi-Guyon expansion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7468158) (September 2026)
+- [Demystifying the Bergomi-Guyon expansion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7468158) (September 2026)  <span style="float:right;">
+  <a href="https://github.com/fbourgey/bergomi-guypm"> Python amd Mathematica code</a>
 
 - [The SSR under Quadratic Rough Heston](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5239929) (May 2025) <span style="float:right;">
   <a href="https://github.com/jgatheral/QuadraticRoughHeston">R and Python implementations</a>
