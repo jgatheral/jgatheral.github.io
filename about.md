@@ -16,6 +16,7 @@ Prior to joining the faculty of Baruch College, he worked in all major derivativ
 
 ## Distinctions
 
+- Distinguished Faculty Award, Baruch College, 2026.
 - Quant of the Year, *risk.net*, 2021.
 
 ## Visiting Positions
