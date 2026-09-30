@@ -13,22 +13,22 @@ permalink: /publications/
   <a href="https://github.com/fbourgey/bergomi-guyon"> Python amd Mathematica code</a>
 
 - [Quadratic Rough Heston: SPX, VIX, and the SSR](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5239929) (May 2025)   <span style="float:right;">
-  <a href="https://github.com/jgatheral/QuadraticRoughHeston">R and Python implementations</a>
+  <a href="https://github.com/jgatheral/QuadraticRoughHeston">R and Python code</a>
   </span>
   
 
 ## Selected Published Papers
 
 - [Computing the SSR](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872776) *Quantitative Finance* **25**(5) (2025)  <span style="float:right;">
-  <a href="https://github.com/fbourgey/computing-the-ssr"> Python implementation</a>
+  <a href="https://github.com/fbourgey/computing-the-ssr"> Python code</a>
   </span>
 
 - [A Generalization of the Rational Rough Heston Approximation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4601600) *Quantitative Finance* **24**(2) (2024)    <span style="float:right;">
-  <a href="https://github.com/jgatheral/RationalRoughHeston"> R implementation</a>
+  <a href="https://github.com/jgatheral/RationalRoughHeston"> R code</a>
   </span>
 
 - [Efficient simulation of affine forward variance models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3876680) *risk.net* February (2022)  <span style="float:right;">
-  <a href="https://github.com/jgatheral/AFVsimulationCode"> R implementation</a>
+  <a href="https://github.com/jgatheral/AFVsimulationCode"> R code</a>
   </span>
 
 - [A rough SABR formula](https://www.aimsciences.org/article/doi/10.3934/fmf.2021003) *Frontiers of Mathematical Finance* **1**(1), 81-97 (2022)
