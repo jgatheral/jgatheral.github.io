@@ -12,7 +12,7 @@ permalink: /publications/
 - [Demystifying the Bergomi-Guyon expansion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7468158) (September 2026)  <span style="float:right;">
   <a href="https://github.com/fbourgey/bergomi-guyon"> Python amd Mathematica code</a>
 
-- [The SSR under Quadratic Rough Heston](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5239929) (May 2025) <span style="float:right;">
+- [Quadratic Rough Heston: SPX, VIX, and the SSR](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5239929) (May 2025) <span style="float:right;">
   <a href="https://github.com/jgatheral/QuadraticRoughHeston">R and Python implementations</a>
   </span>
   
