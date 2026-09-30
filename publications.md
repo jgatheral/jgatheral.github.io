@@ -6,7 +6,8 @@ permalink: /publications/
 
 ## Working Papers
 
-- [Magic Strikes for Variance and Gamma Contracts, and other Attainable Claims](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7533078) (September 2026)
+- [Magic Strikes for Variance and Gamma Contracts, and other Attainable Claims](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7533078) (September 2026). <span style="float:right;">
+  <a href="https://github.com/fbourgey/bergomi-guyon"> Python amd Mathematica code</a>
 
 - [Demystifying the Bergomi-Guyon expansion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7468158) (September 2026)  <span style="float:right;">
   <a href="https://github.com/fbourgey/bergomi-guyon"> Python amd Mathematica code</a>
